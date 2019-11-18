@@ -8,6 +8,7 @@ C++ Algorithm
 - [최소, 최대 (BOJ 10818)](https://github.com/danielkang1003/Algorithm/blob/master/boj10818.cpp)
 - [최댓값 (BOJ 2562)](https://github.com/danielkang1003/Algorithm/blob/master/boj2562.cpp)
 - [음계 (BOJ 2920)](https://github.com/danielkang1003/Algorithm/blob/master/boj2920.cpp)
+- [숫자의 개수(BOJ 2577)](https://github.com/danielkang1003/Algorithm/blob/master/boj2577.cpp)
 ---
 
 2. 프로그래머스 [비어있음](https://github.com/danielkang1003/Algorithm)
