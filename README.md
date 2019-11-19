@@ -13,6 +13,9 @@ C++ Algorithm
 - [평균 (BOJ1546)](https://github.com/danielkang1003/Algorithm/blob/master/boj1546.cpp)
 - [OX 퀴즈 (BOJ8958)](https://github.com/danielkang1003/Algorithm/blob/master/boj8958.cpp)
 - [평균은 넘겠지 (BOJ4344)](https://github.com/danielkang1003/Algorithm/blob/master/boj4344.cpp)
+- [알파벳 찾기 (BOJ10809)](https://github.com/danielkang1003/Algorithm/blob/master/boj10809.cpp)
 ---
 
-2. 프로그래머스 [비어있음](https://github.com/danielkang1003/Algorithm)
+2. 프로그래머스
+- [서울에서 김서방 찾기]()
+- [문자열을 정수로 바꾸기]()
