@@ -19,7 +19,7 @@ C++ Algorithm
 2. 프로그래머스
 - [서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
 - [문자열을 정수로 바꾸기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.cpp)
-- [핸드폰 번호 가리기]()
+- [핸드폰 번호 가리기](https://github.com/danielkang1003/Algorithm/blob/master/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.cpp)
 ----
 3. 혼자 만들어보는 알고리즘 게임
-- [끝말잇기]()
+- [끝말잇기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)
