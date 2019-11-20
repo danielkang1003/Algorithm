@@ -14,6 +14,7 @@ int main() {
 		cin >> newWord;
 		int size = word.size();
 		if (word[size - 1] == newWord[0]) {
+			cout << "µùµ¿´ó!!\n";
 			word = newWord;
 			flag = true;
 		}
