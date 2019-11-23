@@ -14,6 +14,12 @@ C++ Algorithm
 - [OX 퀴즈 (BOJ8958)](https://github.com/danielkang1003/Algorithm/blob/master/boj8958.cpp)
 - [평균은 넘겠지 (BOJ4344)](https://github.com/danielkang1003/Algorithm/blob/master/boj4344.cpp)
 - [알파벳 찾기 (BOJ 10809)](https://github.com/danielkang1003/Algorithm/blob/master/boj10809.cpp)
+- [단어의 개수 (BOJ 1152)](https://github.com/danielkang1003/Algorithm/blob/master/boj1152.cpp)
+- [상수 (BOJ 2908)](https://github.com/danielkang1003/Algorithm/blob/master/boj2908.cpp)
+- [피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/boj10870.cpp)
+- [팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/boj10872.cpp)
+- [크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/boj2941.cpp)
+	-[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
 ----
 
 2. 프로그래머스
