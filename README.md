@@ -21,13 +21,13 @@ C++ Algorithm
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/boj10870.cpp)
 + 재귀 |[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/boj10872.cpp)
 + 문자열 |[크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/boj2941.cpp)
-	+[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
+		+[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
 + 문자열 |[단어 공부 (BOJ 1157)](https://github.com/danielkang1003/Algorithm/blob/master/boj1157.cpp)
 + 문자열 |[에디터 (BOJ 1406)](https://github.com/danielkang1003/Algorithm/blob/master/boj1406.cpp)
 + 문자열 |[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/boj1475.cpp)
 + 문자열 |[쇠막대기 (BOJ 10799)](https://github.com/danielkang1003/Algorithm/blob/master/boj10799.cpp)
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/boj11726.cpp)
-+ DP |[2xn 타일링2 (BOJ 11727)]((https://github.com/danielkang1003/Algorithm/blob/master/boj11727.cpp))
++ DP |[2xn 타일링2 (BOJ 11727)](https://github.com/danielkang1003/Algorithm/blob/master/boj11727.cpp)
 ----
 
 2. 프로그래머스
