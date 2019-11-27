@@ -11,19 +11,19 @@ int main() {
 	ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
 	cin >> input;
 
-	//´Ü¾î °³¼ö ¼¼¼­ check¿¡ ¼ýÀÚ ³Ö±â
+	//ë‹¨ì–´ ê°œìˆ˜ ì„¸ì„œ checkì— ìˆ«ìž ë„£ê¸°
 	for (int i = 0; i < input.length(); i++) {
 		if (input[i] >= 'A' && input[i] <= 'Z') {
-			//´ë¹®ÀÚ¶ó¸é
+			//ëŒ€ë¬¸ìžë¼ë©´
 			check[input[i] - 'A']++;
 		}
 		else {
-			//¼Ò¹®ÀÚ¶ó¸é
+			//ì†Œë¬¸ìžë¼ë©´
 			check[input[i] - 'a']++;
 		}
 	}
 
-	//¸¹ÀÌ »ç¿ëµÈ °ªÀ» Ã£¾Æ¼­ maxCnt ¿Í idx·Î ÀúÀå
+	//ë§Žì´ ì‚¬ìš©ëœ ê°’ì„ ì°¾ì•„ì„œ maxCnt ì™€ idxë¡œ ì €ìž¥
 	for (int i = 0; i < 26; i++) {
 		if (check[i] >= maxCnt) {
 			maxCnt = check[i];
@@ -31,9 +31,9 @@ int main() {
 		}
 	}
 
-	//check¹è¿­À» µ¹¾Æ¼­ ÀÌÀüÀÇ maxCnt¶û °°À¸¸é cnt Áõ°¡
-	//±Ùµ¥ cnt °¡ µÎ°³ ÀÌ»óÀÌ¸é ¸¹ÀÌ »ç¿ëµÈ ¾ËÆÄºªÀÌ 2°³
-	//ÀÌ»óÀÌ¶ó´Â ¶æÀÌ¹Ç·Î ¹®Á¦ Á¶°Ç°ú °°ÀÌ ? Ãâ·Â
+	//checkë°°ì—´ì„ ëŒì•„ì„œ ì´ì „ì˜ maxCntëž‘ ê°™ìœ¼ë©´ cnt ì¦ê°€
+	//ê·¼ë° cnt ê°€ ë‘ê°œ ì´ìƒì´ë©´ ë§Žì´ ì‚¬ìš©ëœ ì•ŒíŒŒë²³ì´ 2ê°œ
+	//ì´ìƒì´ë¼ëŠ” ëœ»ì´ë¯€ë¡œ ë¬¸ì œ ì¡°ê±´ê³¼ ê°™ì´ ? ì¶œë ¥
 	for (int i = 0; i < 26; i++) {
 		if (check[i] == maxCnt) {
 			cnt++;

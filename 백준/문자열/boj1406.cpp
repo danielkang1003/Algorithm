@@ -4,17 +4,17 @@
 using namespace std;
 
 
-//µÎ°¡Áö ¹æ¹ı
+//ë‘ê°€ì§€ ë°©ë²•
 int main() {
 	ios_base::sync_with_stdio(0), cin.tie(0);
 	string input;
 	cin >> input;
 	list<char> L;
 	for (auto c : input) L.push_back(c);
-	auto cursor = L.end();	//Ä¿¼­ ¸¶Áö¸·¿¡ À§Ä¡
+	auto cursor = L.end();	//ì»¤ì„œ ë§ˆì§€ë§‰ì— ìœ„ì¹˜
 	int Q;
 	cin >> Q;
-	string tmp;	//ÁÙ¹Ù²Ş ÇÑ °³ Á¦°Å
+	string tmp;	//ì¤„ë°”ê¿ˆ í•œ ê°œ ì œê±°
 	getline(cin, tmp);
 	while (Q--) {
 		string order;
@@ -61,39 +61,39 @@ int main() {
 //	while (n--) {
 //		char sth;
 //		scanf(" %c", &sth);
-//		if (sth == 'L') {	//LÀÔ·ÂµÇ¸é ¿ŞÂÊÀ§ °ª ¿À¸¥ÂÊÀ¸·Î push
-//			if (!left.empty()) {	//¿ŞÂÊ¿¡¼­ top°ª pop
+//		if (sth == 'L') {	//Lì…ë ¥ë˜ë©´ ì™¼ìª½ìœ„ ê°’ ì˜¤ë¥¸ìª½ìœ¼ë¡œ push
+//			if (!left.empty()) {	//ì™¼ìª½ì—ì„œ topê°’ pop
 //				right.push(left.top());
 //				left.pop();
 //			}
 //		}
-//		else if (sth == 'D') {	//À§¿Í °°Àº ·ÎÁ÷	
+//		else if (sth == 'D') {	//ìœ„ì™€ ê°™ì€ ë¡œì§	
 //			if (!right.empty()) {
 //				left.push(right.top());
 //				right.pop();
 //			}
 //		}
-//		else if (sth == 'B') {	//»èÁ¦ ºÎºĞÀº
-//			if (!left.empty()) {	//¿ŞÂÊ ¾ø¾ÖÁÖ¸é µÊ
+//		else if (sth == 'B') {	//ì‚­ì œ ë¶€ë¶„ì€
+//			if (!left.empty()) {	//ì™¼ìª½ ì—†ì• ì£¼ë©´ ë¨
 //				left.pop();
 //			}
 //		}
-//		else if (sth == 'P') {	//°ª ´õÇÏ±â´Â
+//		else if (sth == 'P') {	//ê°’ ë”í•˜ê¸°ëŠ”
 //			char word;
 //			scanf(" %c", &word);
-//			left.push(word);	//push·Î °ª ¹ŞÀº°Å Ãß°¡
+//			left.push(word);	//pushë¡œ ê°’ ë°›ì€ê±° ì¶”ê°€
 //		}
 //	}
-//	while (!left.empty()) {	//¿ŞÂÊ¿¡ ÀÖ´Â °ªÀ» ¿À¸¥ÂÊÀ¸·Î ÀÌµ¿
+//	while (!left.empty()) {	//ì™¼ìª½ì— ìˆëŠ” ê°’ì„ ì˜¤ë¥¸ìª½ìœ¼ë¡œ ì´ë™
 //		right.push(left.top());
 //		left.pop();
 //	}
-//	while (!right.empty()) {	//¿À¸¥ÂÊ °ª Ãâ·Â
+//	while (!right.empty()) {	//ì˜¤ë¥¸ìª½ ê°’ ì¶œë ¥
 //		printf("%c", right.top());
 //		right.pop();
 //	}
 //
-//	//	//ÀÏ´Ü Ãâ·Â ÀßµÊ 
+//	//	//ì¼ë‹¨ ì¶œë ¥ ì˜ë¨ 
 //	//	while(!left.empty()){
 //	//		printf("%c", left.top());
 //	//		left.pop();
