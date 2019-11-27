@@ -6,7 +6,7 @@ C++ Algorithm
 1. 백준 
 
 + 기본 |[더하기 사이클 (BOJ 1110)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1110.cpp)
-+ 기본 |[최소, 최대 (BOJ 10818)](https://github.com/danielkang1003/Algorithm/blob/master/boj10818.cpp)
++ 기본 |[최소, 최대 (BOJ 10818)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10818.cpp)
 + 기본 |[최댓값 (BOJ 2562)](https://github.com/danielkang1003/Algorithm/blob/master/boj2562.cpp)
 + 기본 |[음계 (BOJ 2920)](https://github.com/danielkang1003/Algorithm/blob/master/boj2920.cpp)
 + 기본 |[숫자의 개수 (BOJ 2577)](https://github.com/danielkang1003/Algorithm/blob/master/boj2577.cpp)
