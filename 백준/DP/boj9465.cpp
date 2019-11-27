@@ -9,25 +9,25 @@ int main() {
 	cin >> t;
 	while (t--) {
 		cin >> n;
-		//½ºÆ¼Ä¿ ¹è¿­¿¡ ³Ö±â
+		//ìŠ¤í‹°ì»¤ ë°°ì—´ì— ë„£ê¸°
 		for (int i = 0; i < 2; i++)
 			for (int j = 0; j < n; j++)
 				cin >> sticker[i][j];
 
-		//±âÀú »ç·Ê
-		//°¡Àå Ã¹¹ø¤Š ¼öµéÀº sticker¿¡ ÀÖ´Â °ªÀ¸·Î ÀúÀå
-		//±× ÀÌÈÄ ¿·ÀÇ ¼ýÀÚ´Â ´ë°¢¼± + stickerÀÇ °ªÀ¸·Î ¼³Á¤
+		//ê¸°ì € ì‚¬ë¡€
+		//ê°€ìž¥ ì²«ë²ˆÂŠ ìˆ˜ë“¤ì€ stickerì— ìžˆëŠ” ê°’ìœ¼ë¡œ ì €ìž¥
+		//ê·¸ ì´í›„ ì˜†ì˜ ìˆ«ìžëŠ” ëŒ€ê°ì„  + stickerì˜ ê°’ìœ¼ë¡œ ì„¤ì •
 		dp[0][0] = sticker[0][0];
 		dp[1][0] = sticker[1][0];
 		dp[0][1] = dp[1][0] + sticker[0][1];
 		dp[1][1] = dp[0][0] + sticker[1][1];
 
-		//2ºÎÅÍ µ¹¸é¼­ max °ªÀ» Ã£¾ÆÁØ´Ù.
+		//2ë¶€í„° ëŒë©´ì„œ max ê°’ì„ ì°¾ì•„ì¤€ë‹¤.
 		for (int i = 2; i < n; i++) {
 			dp[0][i] = max(dp[1][i - 1], dp[1][i - 2]) + sticker[0][i];
 			dp[1][i] = max(dp[0][i - 1], dp[0][i - 2]) + sticker[1][i];
 		}
-		//ÃÖ´ë°ª Ãâ·ÂÇØÁÖ¸é ³¡!
+		//ìµœëŒ€ê°’ ì¶œë ¥í•´ì£¼ë©´ ë!
 		int result = max(dp[0][n - 1], dp[1][n - 1]);
 		cout << result <<'\n';
 	}
