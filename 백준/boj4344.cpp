@@ -15,10 +15,10 @@ int main() {
 			cin >> score;
 			scores.push_back(score);
 		}
-		//numeric¿¡ ÀÖ´Â accumulate°¡ vector ¿ø¼Ò°ªÀ» ´õÇØÁÜ
+		//numericì— ìˆëŠ” accumulateê°€ vector ì›ì†Œê°’ì„ ë”í•´ì¤Œ
 		double avg = accumulate(scores.begin(), scores.end(), 0.0) / scores.size();
 		
-		//ºô¶§±îÁö µ¹¸é¼­ Á¡¼ö°¡ Æò±Õº¸´Ù Å«Áö È®ÀÎ. È®ÀÎÈÄ count
+		//ë¹Œë•Œê¹Œì§€ ëŒë©´ì„œ ì ìˆ˜ê°€ í‰ê· ë³´ë‹¤ í°ì§€ í™•ì¸. í™•ì¸í›„ count
 		while (!scores.empty()) {
 			int check = scores.back();
 			scores.pop_back();

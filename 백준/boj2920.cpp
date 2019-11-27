@@ -14,9 +14,9 @@ int main() {
 	}
 	
 	int asc = 0, des = 0;
-	//´ÙÀ½ ¼ö¿Í ºñ±³ÇØ¼­ ³ô¾ÆÁö¸é ascending
-	//¿ª¼øÀÌ¸é descending
-	//¼ıÀÚ ¸¶À½´ë·Î¸é mixxed
+	//ë‹¤ìŒ ìˆ˜ì™€ ë¹„êµí•´ì„œ ë†’ì•„ì§€ë©´ ascending
+	//ì—­ìˆœì´ë©´ descending
+	//ìˆ«ì ë§ˆìŒëŒ€ë¡œë©´ mixxed
 	for (int i = 0; i < 8 - 1; i++) {
 		for (int j = i + 1; j < 8; j++) {
 			if (arr[j] < arr[i]) des = 1;
