@@ -6,7 +6,7 @@ using namespace std;
 int check[10];
 
 int main() {
-	//int Å¸ÀÔÀ¸·Î ¹Þ¾ÒÀ» °æ¿ì
+	//int íƒ€ìž…ìœ¼ë¡œ ë°›ì•˜ì„ ê²½ìš°
 	/*int roomNum, set = 0;
 	cin >> roomNum;
 	while (1) {	
@@ -21,7 +21,7 @@ int main() {
 	cout << max(set, (check[6] + check[9] + 1) / 2);
 	return 0;*/
 
-	//string Å¸ÀÔÀ¸·Î ¹Þ¾ÒÀ» °æ¿ì
+	//string íƒ€ìž…ìœ¼ë¡œ ë°›ì•˜ì„ ê²½ìš°
 	string input;
 	cin >> input;
 	for (int i = 0; i < input.size(); i++) check[input[i] - '0']++;
