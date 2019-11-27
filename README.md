@@ -42,6 +42,9 @@ C++ Algorithm
 		*구조체와 vector 모두 사용해서 풀어봄
 + 정렬 |[좌표 정렬하기 (BOJ 11651)](https://github.com/danielkang1003/Algorithm/blob/master/boj11651.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
++ 정렬 |[나이순 정렬 (BOJ 10814)](https://github.com/danielkang1003/Algorithm/blob/master/boj10814.cpp)
++ 정렬 |[국영수 (BOJ 10825)](https://github.com/danielkang1003/Algorithm/blob/master/boj10825.cpp)
+
 ----
 
 2. 프로그래머스
