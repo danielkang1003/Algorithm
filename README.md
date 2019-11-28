@@ -1,7 +1,8 @@
 # Algorithm
 C++ Algorithm
 --
-**2020년 상반기 역량테스트를 목표로 다시 처음부터 차근차근 쌓아가기를 목표로!**
+**알고리즘 꾸준히 풀기! 
+1일 1커밋 하자!**
 
 1. 백준 
 
@@ -18,33 +19,36 @@ C++ Algorithm
 + 기본 |[단어의 개수 (BOJ 1152)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1152.cpp)
 + 기본 |[별찍기 10 (BOJ 2447)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2447.cpp)
 + 기본 |[상수 (BOJ 2908)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2908.cpp)
-
-+ 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/boj10870.cpp)
-+ 재귀 |[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/boj10872.cpp)
-
-+ 문자열 |[크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/boj2941.cpp)
+----
++ 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
++ 재귀 |[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
+----
++ 문자열 |[크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2941.cpp)
 		+[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
-+ 문자열 |[단어 공부 (BOJ 1157)](https://github.com/danielkang1003/Algorithm/blob/master/boj1157.cpp)
-+ 문자열 |[에디터 (BOJ 1406)](https://github.com/danielkang1003/Algorithm/blob/master/boj1406.cpp)
-+ 문자열 |[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/boj1475.cpp)
-+ 문자열 |[쇠막대기 (BOJ 10799)](https://github.com/danielkang1003/Algorithm/blob/master/boj10799.cpp)
-
-+ DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/boj11726.cpp)
-+ DP |[2xn 타일링2 (BOJ 11727)](https://github.com/danielkang1003/Algorithm/blob/master/boj11727.cpp)
-+ DP |[오르막 수 (BOJ 11057)](https://github.com/danielkang1003/Algorithm/blob/master/boj11057.cpp)
-+ DP |[이친수 (BOJ 2193)](https://github.com/danielkang1003/Algorithm/blob/master/boj2193.cpp)
-+ DP |[스티커 (BOJ 9465)](https://github.com/danielkang1003/Algorithm/blob/master/boj9465.cpp)
-+ DP |[포도주 시식 (BOJ 2156)](https://github.com/danielkang1003/Algorithm/blob/master/boj2156.cpp)
-
++ 문자열 |[단어 공부 (BOJ 1157)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1157.cpp)
++ 문자열 |[에디터 (BOJ 1406)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1406.cpp)
++ 문자열 |[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1475.cpp)
++ 문자열 |[쇠막대기 (BOJ 10799)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10799.cpp)
+----
++ DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
++ DP |[2xn 타일링2 (BOJ 11727)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11727.cpp)
++ DP |[오르막 수 (BOJ 11057)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11057.cpp)
++ DP |[이친수 (BOJ 2193)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2193.cpp)
++ DP |[스티커 (BOJ 9465)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj9465.cpp)
++ DP |[포도주 시식 (BOJ 2156)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2156.cpp)
+----
 + Stack |[괄호의 값 (BOJ 2504)](https://github.com/danielkang1003/Algorithm/blob/master/boj2504.cpp)
-
++ Stack |[괄호 (BOJ 9012)](https://github.com/danielkang1003/Algorithm/blob/master/boj9012.cpp)
+----
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
 + 정렬 |[좌표 정렬하기 (BOJ 11651)](https://github.com/danielkang1003/Algorithm/blob/master/boj11651.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
 + 정렬 |[나이순 정렬 (BOJ 10814)](https://github.com/danielkang1003/Algorithm/blob/master/boj10814.cpp)
 + 정렬 |[국영수 (BOJ 10825)](https://github.com/danielkang1003/Algorithm/blob/master/boj10825.cpp)
++ 정렬 |[K번째 수 (BOJ 11004)](https://github.com/danielkang1003/Algorithm/blob/master/boj11004.cpp)
 
+----
 ----
 
 2. 프로그래머스
