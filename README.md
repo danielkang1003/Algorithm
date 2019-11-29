@@ -37,8 +37,15 @@ C++ Algorithm
 + DP |[스티커 (BOJ 9465)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj9465.cpp)
 + DP |[포도주 시식 (BOJ 2156)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2156.cpp)
 ----
++ Stack |[스택 (BOJ 10828)](https://github.com/danielkang1003/Algorithm/blob/master/boj10828.cpp)
 + Stack |[괄호의 값 (BOJ 2504)](https://github.com/danielkang1003/Algorithm/blob/master/boj2504.cpp)
 + Stack |[괄호 (BOJ 9012)](https://github.com/danielkang1003/Algorithm/blob/master/boj9012.cpp)
++ Stack |[탑 (BOJ 2493)](https://github.com/danielkang1003/Algorithm/blob/master/boj2493.cpp)
++ Queue |[큐 (BOJ10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
+
+----
++ DFS   |[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
+
 ----
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
