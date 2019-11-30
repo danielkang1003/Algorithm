@@ -46,6 +46,7 @@ C++ Algorithm
 ----
 + DFS|[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
 + DFS|[미로 탐색(BOJ 2178)](https://github.com/danielkang1003/Algorithm/blob/master/boj2178.cpp)
++ DFS|[단지번호붙이기(BOJ 2667)](https://github.com/danielkang1003/Algorithm/blob/master/boj2667.cpp)
 ----
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
