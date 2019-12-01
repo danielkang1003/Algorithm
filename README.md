@@ -22,6 +22,8 @@ C++ Algorithm
 ----
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 + 재귀 |[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
++ 재귀 |[곱셈 (BOJ 1629)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj1629.cpp)
++ 재귀 |[하노이 탑 (BOJ 11729)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj11729.cpp)
 ----
 + 문자열 |[크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2941.cpp)
 		+[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
@@ -55,7 +57,7 @@ C++ Algorithm
 + 정렬 |[나이순 정렬 (BOJ 10814)](https://github.com/danielkang1003/Algorithm/blob/master/boj10814.cpp)
 + 정렬 |[국영수 (BOJ 10825)](https://github.com/danielkang1003/Algorithm/blob/master/boj10825.cpp)
 + 정렬 |[K번째 수 (BOJ 11004)](https://github.com/danielkang1003/Algorithm/blob/master/boj11004.cpp)
-
++ 정렬 |[배열 합치기 (BOJ 11728) - merge sort](https://github.com/danielkang1003/Algorithm/blob/master/boj11728.cpp)
 ----
 ----
 
@@ -67,3 +69,6 @@ C++ Algorithm
 
 3. 혼자 만들어보는 알고리즘 게임
 - [끝말잇기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)
+
+4. 개념 정리
++ 정렬 |[Merge Sort 돌아가는 방식](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
