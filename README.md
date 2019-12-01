@@ -57,9 +57,10 @@ C++ Algorithm
 + 정렬 |[나이순 정렬 (BOJ 10814)](https://github.com/danielkang1003/Algorithm/blob/master/boj10814.cpp)
 + 정렬 |[국영수 (BOJ 10825)](https://github.com/danielkang1003/Algorithm/blob/master/boj10825.cpp)
 + 정렬 |[K번째 수 (BOJ 11004)](https://github.com/danielkang1003/Algorithm/blob/master/boj11004.cpp)
-+ 정렬 |[배열 합치기 (BOJ 11728) - merge sort](https://github.com/danielkang1003/Algorithm/blob/master/boj11728.cpp)
++ 정렬 |[배열 합치기 (BOJ 11728) - merge sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/boj11728.cpp)
++ 정렬 |[수 정렬하기 (BOJ 2750) - quick sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
 ----
-----
+
 
 2. 프로그래머스
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
@@ -69,6 +70,8 @@ C++ Algorithm
 
 3. 혼자 만들어보는 알고리즘 게임
 - [끝말잇기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)
+----
 
 4. 개념 정리
-+ 정렬 |[Merge Sort 돌아가는 방식](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
++ [Merge Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
++ [Quick Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
