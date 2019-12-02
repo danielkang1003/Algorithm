@@ -27,7 +27,8 @@ void quick_sort(int* arr, int start, int end) {
 	//swap(arr[start], arr[right]);
 	int swapp = arr[start];
 	arr[start] = arr[right];
-	arr[right] = swapp;
+	arr[right] = swapp;		// 위의 스왑과정은 피벗을 새로 만들기 위한 작업
+
 	quick_sort(arr, start, right);
 	quick_sort(arr, right + 1, end);
 }
