@@ -60,11 +60,11 @@ C++ Algorithm
 ,[배열 합치기 (BOJ 11728) - merge sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/boj11728.cpp)
 ,[수 정렬하기 (BOJ 2750) - quick sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
 ----
-+그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
++ 그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
 ,[회의실 배정 (BOJ 1931)](https://github.com/danielkang1003/Algorithm/blob/master/boj1931.cpp)
 ,[로프 (BOJ 2217)](https://github.com/danielkang1003/Algorithm/blob/master/boj2217.cpp)
 ----
-+백트래킹|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
++ 백트래킹|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
 ,[N과 M(2) (BOJ 15650)](https://github.com/danielkang1003/Algorithm/blob/master/boj15650.cpp)
 ----
 2. 프로그래머스
