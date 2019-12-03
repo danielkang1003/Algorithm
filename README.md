@@ -20,7 +20,7 @@ C++ Algorithm
 ,[별찍기 10 (BOJ 2447)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2447.cpp)
 ,[상수 (BOJ 2908)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2908.cpp)
 ----
-+재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
++ 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
 ,[곱셈 (BOJ 1629)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj1629.cpp)
 ,[하노이 탑 (BOJ 11729)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj11729.cpp)
