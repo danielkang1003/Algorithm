@@ -1,10 +1,10 @@
 # Algorithm
 C++ Algorithm
 --
-**알고리즘 꾸준히 풀기! 
+*알고리즘 꾸준히 풀기! 
 1일 1커밋 하자!**
 
-1. 백준 
+**1. 백준 
 
 + 기본 |[더하기 사이클 (BOJ 1110)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1110.cpp)
 ,[최소, 최대 (BOJ 10818)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10818.cpp)
@@ -66,17 +66,18 @@ C++ Algorithm
 ----
 + 백트래킹|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
 ,[N과 M(2) (BOJ 15650)](https://github.com/danielkang1003/Algorithm/blob/master/boj15650.cpp)
+,[N과 M(3) (BOJ 15651)](https://github.com/danielkang1003/Algorithm/blob/master/boj15651.cpp)
 ----
-2. 프로그래머스
+**2. 프로그래머스
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
 + 문자열 |[문자열을 정수로 바꾸기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.cpp)
 + 문자열 |[핸드폰 번호 가리기](https://github.com/danielkang1003/Algorithm/blob/master/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.cpp)
 ----
 
-3. 혼자 만들어보는 알고리즘 게임
+**3. 혼자 만들어보는 알고리즘 게임
 - [끝말잇기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)
 ----
 
-4. 개념 정리
+**4. 개념 정리
 + [Merge Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
 + [Quick Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
