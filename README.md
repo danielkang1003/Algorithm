@@ -43,6 +43,9 @@ C++ Algorithm
 ,[괄호의 값 (BOJ 2504)](https://github.com/danielkang1003/Algorithm/blob/master/boj2504.cpp)
 ,[괄호 (BOJ 9012)](https://github.com/danielkang1003/Algorithm/blob/master/boj9012.cpp)
 ,[탑 (BOJ 2493)](https://github.com/danielkang1003/Algorithm/blob/master/boj2493.cpp)
+,[제로 (BOJ 10773)](https://github.com/danielkang1003/Algorithm/blob/master/boj10773.cpp)
+,[균형잡힌 세상 (BOJ 4949)](https://github.com/danielkang1003/Algorithm/blob/master/boj4949.cpp)
+
 + Queue |[큐 (BOJ10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 
 ----
@@ -67,6 +70,12 @@ C++ Algorithm
 + 백트래킹|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
 ,[N과 M(2) (BOJ 15650)](https://github.com/danielkang1003/Algorithm/blob/master/boj15650.cpp)
 ,[N과 M(3) (BOJ 15651)](https://github.com/danielkang1003/Algorithm/blob/master/boj15651.cpp)
+,[N과 M(4) (BOJ 15652)](https://github.com/danielkang1003/Algorithm/blob/master/boj15652.cpp)
+,[N과 M(5) (BOJ 15654)](https://github.com/danielkang1003/Algorithm/blob/master/boj15654.cpp)
+,[N과 M(6) (BOJ 15655)](https://github.com/danielkang1003/Algorithm/blob/master/boj15655.cpp)
+,[N과 M(7) (BOJ 15656)](https://github.com/danielkang1003/Algorithm/blob/master/boj15656.cpp)
+,[N과 M(8) (BOJ 15657)](https://github.com/danielkang1003/Algorithm/blob/master/boj15657.cpp)
+,[N과 M(9) (BOJ 15663)](https://github.com/danielkang1003/Algorithm/blob/master/boj15663.cpp)
 ----
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
