@@ -19,6 +19,7 @@ C++ Algorithm
 ,[단어의 개수 (BOJ 1152)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1152.cpp)
 ,[별찍기 10 (BOJ 2447)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2447.cpp)
 ,[상수 (BOJ 2908)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2908.cpp)
+,[윷놀이 (BOJ 2490)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2490.cpp)
 ----
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
@@ -76,6 +77,8 @@ C++ Algorithm
 ,[N과 M(7) (BOJ 15656)](https://github.com/danielkang1003/Algorithm/blob/master/boj15656.cpp)
 ,[N과 M(8) (BOJ 15657)](https://github.com/danielkang1003/Algorithm/blob/master/boj15657.cpp)
 ,[N과 M(9) (BOJ 15663)](https://github.com/danielkang1003/Algorithm/blob/master/boj15663.cpp)
+,[N-Queen (BOJ 9663)](https://github.com/danielkang1003/Algorithm/blob/master/boj9663.cpp)
+,[부분수열의 합 (BOJ 1182)](https://github.com/danielkang1003/Algorithm/blob/master/boj1182.cpp)
 ----
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
