@@ -57,6 +57,7 @@ C++ Algorithm
 ,[영역 구하기 (BOJ 2583)](https://github.com/danielkang1003/Algorithm/blob/master/boj2583.cpp)
 ,[나이트의 이동 (BOJ 7562)](https://github.com/danielkang1003/Algorithm/blob/master/boj7562.cpp)
 ,[적록색약 (BOJ 10026)](https://github.com/danielkang1003/Algorithm/blob/master/boj10026.cpp)
+,[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468solved.cpp)
 ----
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
