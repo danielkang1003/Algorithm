@@ -47,8 +47,10 @@ C++ Algorithm
 ,[제로 (BOJ 10773)](https://github.com/danielkang1003/Algorithm/blob/master/boj10773.cpp)
 ,[균형잡힌 세상 (BOJ 4949)](https://github.com/danielkang1003/Algorithm/blob/master/boj4949.cpp)
 
-+ Queue |[큐 (BOJ10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
++ Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 
++ Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
+,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
 ----
 + DFS|[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
 ,[미로 탐색(BOJ 2178)](https://github.com/danielkang1003/Algorithm/blob/master/boj2178.cpp)
