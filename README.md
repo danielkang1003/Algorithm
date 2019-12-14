@@ -34,6 +34,7 @@ C++ Algorithm
 ,[에디터 (BOJ 1406)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1406.cpp)
 ,[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1475.cpp)
 ,[쇠막대기 (BOJ 10799)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10799.cpp)
+,[에너그램 만들기 (BOJ 1919)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1919.cpp)
 ----
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
 ,[2xn 타일링2 (BOJ 11727)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11727.cpp)
@@ -48,13 +49,14 @@ C++ Algorithm
 ,[탑 (BOJ 2493)](https://github.com/danielkang1003/Algorithm/blob/master/boj2493.cpp)
 ,[제로 (BOJ 10773)](https://github.com/danielkang1003/Algorithm/blob/master/boj10773.cpp)
 ,[균형잡힌 세상 (BOJ 4949)](https://github.com/danielkang1003/Algorithm/blob/master/boj4949.cpp)
+,[키로거 (BOJ 5397)](https://github.com/danielkang1003/Algorithm/blob/master/boj5397.cpp)
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
 ----
-+ DFS|[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
++ BFS|[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
 ,[미로 탐색(BOJ 2178)](https://github.com/danielkang1003/Algorithm/blob/master/boj2178.cpp)
 ,[단지 번호붙이기(BOJ 2667)](https://github.com/danielkang1003/Algorithm/blob/master/boj2667.cpp)
 ,[유기농 배추 (BOJ 1012)](https://github.com/danielkang1003/Algorithm/blob/master/boj1012.cpp)
@@ -62,6 +64,7 @@ C++ Algorithm
 ,[나이트의 이동 (BOJ 7562)](https://github.com/danielkang1003/Algorithm/blob/master/boj7562.cpp)
 ,[적록색약 (BOJ 10026)](https://github.com/danielkang1003/Algorithm/blob/master/boj10026.cpp)
 ,[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468solved.cpp)
+,[벽부수고 이동하기 (BOJ 2206)](https://github.com/danielkang1003/Algorithm/blob/master/boj2206.cpp)
 ----
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
