@@ -22,6 +22,7 @@ C++ Algorithm
 ,[윷놀이 (BOJ 2490)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2490.cpp)
 ,[Strfry (BOJ 11328)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj11328.cpp)
 ,[핸드폰 요금 (BOJ 1267)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1267.cpp)
+,[카드 역배치 (BOJ 10804)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10804.cpp)
 ----
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
@@ -50,6 +51,7 @@ C++ Algorithm
 ,[제로 (BOJ 10773)](https://github.com/danielkang1003/Algorithm/blob/master/boj10773.cpp)
 ,[균형잡힌 세상 (BOJ 4949)](https://github.com/danielkang1003/Algorithm/blob/master/boj4949.cpp)
 ,[키로거 (BOJ 5397)](https://github.com/danielkang1003/Algorithm/blob/master/boj5397.cpp)
+,[일곱난쟁이 (BOJ 2309)](https://github.com/danielkang1003/Algorithm/blob/master/boj2309.cpp)
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 
