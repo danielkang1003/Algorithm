@@ -67,6 +67,7 @@ C++ Algorithm
 ,[적록색약 (BOJ 10026)](https://github.com/danielkang1003/Algorithm/blob/master/boj10026.cpp)
 ,[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468solved.cpp)
 ,[벽부수고 이동하기 (BOJ 2206)](https://github.com/danielkang1003/Algorithm/blob/master/boj2206.cpp)
+,[숨바꼭질 (BOJ 1697)](https://github.com/danielkang1003/Algorithm/blob/master/boj1697.cpp)
 ----
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
