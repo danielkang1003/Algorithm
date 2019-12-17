@@ -99,6 +99,11 @@ C++ Algorithm
 ,[N-Queen (BOJ 9663)](https://github.com/danielkang1003/Algorithm/blob/master/boj9663.cpp)
 ,[부분수열의 합 (BOJ 1182)](https://github.com/danielkang1003/Algorithm/blob/master/boj1182.cpp)
 ----
+
++ 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp)
+,[숫자카드 (BOJ 10815)](https://github.com/danielkang1003/Algorithm/blob/master/boj10815.cpp)
+,[숫자카드2 (BOJ 10816)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816.cpp)
+
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
 + 문자열 |[문자열을 정수로 바꾸기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.cpp)
