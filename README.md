@@ -55,6 +55,8 @@ C++ Algorithm
 ,[그릇 (BOJ 7567)](https://github.com/danielkang1003/Algorithm/blob/master/boj7567.cpp)
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
+,[프린터 큐 (BOJ 1966)](https://github.com/danielkang1003/Algorithm/blob/master/boj1966.cpp)
+,[조세퍼스 문제 (BOJ 1158)](https://github.com/danielkang1003/Algorithm/blob/master/boj1158.cpp)
 
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
