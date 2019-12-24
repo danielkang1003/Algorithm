@@ -97,8 +97,12 @@ C++ Algorithm
 ,[N과 M(7) (BOJ 15656)](https://github.com/danielkang1003/Algorithm/blob/master/boj15656.cpp)
 ,[N과 M(8) (BOJ 15657)](https://github.com/danielkang1003/Algorithm/blob/master/boj15657.cpp)
 ,[N과 M(9) (BOJ 15663)](https://github.com/danielkang1003/Algorithm/blob/master/boj15663.cpp)
+,[N과 M(10) (BOJ 15664)](https://github.com/danielkang1003/Algorithm/blob/master/boj15664.cpp)
+,[N과 M(11) (BOJ 15665)](https://github.com/danielkang1003/Algorithm/blob/master/boj15665.cpp)
+,[N과 M(12) (BOJ 15666)](https://github.com/danielkang1003/Algorithm/blob/master/boj15666.cpp)
 ,[N-Queen (BOJ 9663)](https://github.com/danielkang1003/Algorithm/blob/master/boj9663.cpp)
 ,[부분수열의 합 (BOJ 1182)](https://github.com/danielkang1003/Algorithm/blob/master/boj1182.cpp)
+,[로또 (BOJ 6603)](https://github.com/danielkang1003/Algorithm/blob/master/boj6603.cpp)
 ----
 
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
