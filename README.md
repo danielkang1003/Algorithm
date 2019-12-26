@@ -23,6 +23,7 @@ C++ Algorithm
 ,[Strfry (BOJ 11328)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj11328.cpp)
 ,[핸드폰 요금 (BOJ 1267)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1267.cpp)
 ,[카드 역배치 (BOJ 10804)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10804.cpp)
+,[연속합 (BOJ 1912)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1912.cpp)
 ----
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
@@ -88,7 +89,7 @@ C++ Algorithm
 ,[회의실 배정 (BOJ 1931)](https://github.com/danielkang1003/Algorithm/blob/master/boj1931.cpp)
 ,[로프 (BOJ 2217)](https://github.com/danielkang1003/Algorithm/blob/master/boj2217.cpp)
 ----
-+ 백트래킹|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
++ 백트래킹, 시뮬레이션|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
 ,[N과 M(2) (BOJ 15650)](https://github.com/danielkang1003/Algorithm/blob/master/boj15650.cpp)
 ,[N과 M(3) (BOJ 15651)](https://github.com/danielkang1003/Algorithm/blob/master/boj15651.cpp)
 ,[N과 M(4) (BOJ 15652)](https://github.com/danielkang1003/Algorithm/blob/master/boj15652.cpp)
@@ -100,9 +101,11 @@ C++ Algorithm
 ,[N과 M(10) (BOJ 15664)](https://github.com/danielkang1003/Algorithm/blob/master/boj15664.cpp)
 ,[N과 M(11) (BOJ 15665)](https://github.com/danielkang1003/Algorithm/blob/master/boj15665.cpp)
 ,[N과 M(12) (BOJ 15666)](https://github.com/danielkang1003/Algorithm/blob/master/boj15666.cpp)
+,[공 (BOJ 1547)](https://github.com/danielkang1003/Algorithm/blob/master/boj1547.cpp)
 ,[N-Queen (BOJ 9663)](https://github.com/danielkang1003/Algorithm/blob/master/boj9663.cpp)
 ,[부분수열의 합 (BOJ 1182)](https://github.com/danielkang1003/Algorithm/blob/master/boj1182.cpp)
 ,[로또 (BOJ 6603)](https://github.com/danielkang1003/Algorithm/blob/master/boj6603.cpp)
+,[암호 만들기 (BOJ 1759)](https://github.com/danielkang1003/Algorithm/blob/master/boj1759.cpp)
 ----
 
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
