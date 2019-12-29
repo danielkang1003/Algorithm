@@ -76,6 +76,7 @@ C++ Algorithm
 ,[벽부수고 이동하기 (BOJ 2206)](https://github.com/danielkang1003/Algorithm/blob/master/boj2206.cpp)
 ,[숨바꼭질 (BOJ 1697)](https://github.com/danielkang1003/Algorithm/blob/master/boj1697.cpp)
 ----
+
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
 		*구조체와 vector 모두 사용해서 풀어봄
 ,[좌표 정렬하기 (BOJ 11651)](https://github.com/danielkang1003/Algorithm/blob/master/boj11651.cpp)
@@ -110,6 +111,11 @@ C++ Algorithm
 ,[암호 만들기 (BOJ 1759)](https://github.com/danielkang1003/Algorithm/blob/master/boj1759.cpp)
 ----
 
++ 그래프|
+[연결 요소의 개수 (BOJ 11724): BFS,DFS 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj11724.cpp)
+,[DFS 와 BFS (BOJ 1260)](https://github.com/danielkang1003/Algorithm/blob/master/boj1260.cpp)
+,[바이러스 (BOJ 2606): DFS](https://github.com/danielkang1003/Algorithm/blob/master/boj2606.cpp)
+
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
 [(수  찾기 (BOJ 1920) stl사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920_bs.cpp)
 ,[숫자카드 (BOJ 10815)](https://github.com/danielkang1003/Algorithm/blob/master/boj10815.cpp)
@@ -141,5 +147,7 @@ C++ Algorithm
 + [DFS 연결 그래프 순회, 비재귀2](https://github.com/danielkang1003/Algorithm/blob/master/graph_circuit_2.cpp)
 + [DFS 연결 그래프 순회, 재귀](https://github.com/danielkang1003/Algorithm/blob/master/recur_graph.cpp)
 + [DFS 단순 그래프(연결 그래프가 아닌) 순회](https://github.com/danielkang1003/Algorithm/blob/master/simple_graph_circuit_dfs.cpp)
+----
+
 *5. 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
