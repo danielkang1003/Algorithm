@@ -59,10 +59,12 @@ C++ Algorithm
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 ,[프린터 큐 (BOJ 1966)](https://github.com/danielkang1003/Algorithm/blob/master/boj1966.cpp)
 ,[조세퍼스 문제 (BOJ 1158)](https://github.com/danielkang1003/Algorithm/blob/master/boj1158.cpp)
+,[트럭 (BOJ 13335)](https://github.com/danielkang1003/Algorithm/blob/master/boj13335.cpp)
 
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
 ----
+
 + BFS|[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
 ,[미로 탐색(BOJ 2178)](https://github.com/danielkang1003/Algorithm/blob/master/boj2178.cpp)
 ,[단지 번호붙이기(BOJ 2667)](https://github.com/danielkang1003/Algorithm/blob/master/boj2667.cpp)
@@ -130,6 +132,14 @@ C++ Algorithm
 *4. 개념 정리*
 + [Merge Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
 + [Quick Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
-
++ [Graph 구현 (STL 사용)](https://github.com/danielkang1003/Algorithm/blob/master/graph.cpp)
++ [Graph 구현 (STL 사용 불가 시)](https://github.com/danielkang1003/Algorithm/blob/master/graph_no_stl.cpp)
++ [BFS 연결 그래프에서 정점과의 거리 (무방향 그래프, 인접 리스트)](https://github.com/danielkang1003/Algorithm/blob/master/undirectedGraph.cpp)
++ [BFS 연결 그래프 순회](https://github.com/danielkang1003/Algorithm/blob/master/graph_circuit.cpp)
++ [BFS 단순 그래프(연결 그래프가 아닌) 순회](https://github.com/danielkang1003/Algorithm/blob/master/simple_graph_circuit.cpp)
++ [DFS 연결 그래프 순회, 비재귀](https://github.com/danielkang1003/Algorithm/blob/master/dfs_graph_circuit.cpp)
++ [DFS 연결 그래프 순회, 비재귀2](https://github.com/danielkang1003/Algorithm/blob/master/graph_circuit_2.cpp)
++ [DFS 연결 그래프 순회, 재귀](https://github.com/danielkang1003/Algorithm/blob/master/recur_graph.cpp)
++ [DFS 단순 그래프(연결 그래프가 아닌) 순회](https://github.com/danielkang1003/Algorithm/blob/master/simple_graph_circuit_dfs.cpp)
 *5. 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
