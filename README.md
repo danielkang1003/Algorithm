@@ -112,9 +112,11 @@ C++ Algorithm
 ----
 
 + 그래프|
-[연결 요소의 개수 (BOJ 11724): BFS,DFS 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj11724.cpp)
+[연결 요소의 개수 (BOJ 11724): BFS,DFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj11724.cpp)
 ,[DFS 와 BFS (BOJ 1260)](https://github.com/danielkang1003/Algorithm/blob/master/boj1260.cpp)
-,[바이러스 (BOJ 2606): DFS](https://github.com/danielkang1003/Algorithm/blob/master/boj2606.cpp)
+,[바이러스 (BOJ 2606): DFS, BFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj2606.cpp)
+,[결혼식 (BOJ 5567): BFS](https://github.com/danielkang1003/Algorithm/blob/master/boj5567.cpp)
+,[숨바꼭지 (BOJ 6118: BFS)](https://github.com/danielkang1003/Algorithm/blob/master/boj6118.cpp)
 
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
 [(수  찾기 (BOJ 1920) stl사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920_bs.cpp)
