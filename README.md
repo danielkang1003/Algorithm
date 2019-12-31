@@ -75,6 +75,8 @@ C++ Algorithm
 ,[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468solved.cpp)
 ,[벽부수고 이동하기 (BOJ 2206)](https://github.com/danielkang1003/Algorithm/blob/master/boj2206.cpp)
 ,[숨바꼭질 (BOJ 1697)](https://github.com/danielkang1003/Algorithm/blob/master/boj1697.cpp)
+,[음식물 피하기 (BOJ 1743) BFS, DFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj1743.cpp)
+,[토마토 (BOJ 7576)]((https://github.com/danielkang1003/Algorithm/blob/master/boj7576.cpp))
 ----
 
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
