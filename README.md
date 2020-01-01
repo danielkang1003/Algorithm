@@ -24,6 +24,9 @@ C++ Algorithm
 ,[핸드폰 요금 (BOJ 1267)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1267.cpp)
 ,[카드 역배치 (BOJ 10804)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10804.cpp)
 ,[연속합 (BOJ 1912)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1912.cpp)
+,[ROT 13 (BOJ 11655)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj11655.cpp)
+,[네 수 (BOJ 10824)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10824.cpp)
+
 ----
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
@@ -86,14 +89,19 @@ C++ Algorithm
 ,[나이순 정렬 (BOJ 10814)](https://github.com/danielkang1003/Algorithm/blob/master/boj10814.cpp)
 ,[국영수 (BOJ 10825)](https://github.com/danielkang1003/Algorithm/blob/master/boj10825.cpp)
 ,[K번째 수 (BOJ 11004)](https://github.com/danielkang1003/Algorithm/blob/master/boj11004.cpp)
+,[나무조각 (BOJ 2947)](https://github.com/danielkang1003/Algorithm/blob/master/boj2947.cpp)
 ,[배열 합치기 (BOJ 11728) - merge sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/boj11728.cpp)
 ,[수 정렬하기 (BOJ 2750) - quick sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
 ,[방 배정 (BOJ 13300)](https://github.com/danielkang1003/Algorithm/blob/master/boj13300.cpp)
+,[접미사 배열 (BOJ 11656)](https://github.com/danielkang1003/Algorithm/blob/master/boj11656.cpp)
+
 ----
+
 + 그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
 ,[회의실 배정 (BOJ 1931)](https://github.com/danielkang1003/Algorithm/blob/master/boj1931.cpp)
 ,[로프 (BOJ 2217)](https://github.com/danielkang1003/Algorithm/blob/master/boj2217.cpp)
 ----
+
 + 백트래킹, 시뮬레이션|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
 ,[N과 M(2) (BOJ 15650)](https://github.com/danielkang1003/Algorithm/blob/master/boj15650.cpp)
 ,[N과 M(3) (BOJ 15651)](https://github.com/danielkang1003/Algorithm/blob/master/boj15651.cpp)
