@@ -47,6 +47,9 @@ C++ Algorithm
 ,[이친수 (BOJ 2193)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2193.cpp)
 ,[스티커 (BOJ 9465)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj9465.cpp)
 ,[포도주 시식 (BOJ 2156)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2156.cpp)
+,[1로 만들기 (BOJ 1463)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj1463.cpp)
+,[계단 오르기 (BOJ 2579)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2579.cpp)
+
 ----
 + Stack |[스택 (BOJ 10828)](https://github.com/danielkang1003/Algorithm/blob/master/boj10828.cpp)
 ,[괄호의 값 (BOJ 2504)](https://github.com/danielkang1003/Algorithm/blob/master/boj2504.cpp)
@@ -126,7 +129,7 @@ C++ Algorithm
 ,[DFS 와 BFS (BOJ 1260)](https://github.com/danielkang1003/Algorithm/blob/master/boj1260.cpp)
 ,[바이러스 (BOJ 2606): DFS, BFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj2606.cpp)
 ,[결혼식 (BOJ 5567): BFS](https://github.com/danielkang1003/Algorithm/blob/master/boj5567.cpp)
-,[숨바꼭지 (BOJ 6118: BFS)](https://github.com/danielkang1003/Algorithm/blob/master/boj6118.cpp)
+,[숨바꼭질 (BOJ 6118: BFS)](https://github.com/danielkang1003/Algorithm/blob/master/boj6118.cpp)
 
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
 [(수  찾기 (BOJ 1920) stl사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920_bs.cpp)
@@ -136,6 +139,10 @@ C++ Algorithm
 
 + 힙|[최소 힙 (BOJ 1927)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927.cpp)
 ,[최소 힙 (BOJ 1927 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927_stl.cpp)
+
++ 삼성 SW 역량 테스트 기출|
+[시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
+
 
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
