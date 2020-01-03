@@ -24,8 +24,19 @@ vector<int> dijkstra(int x) {
 	while (!pq.empty()) {
 		//거리가 작은 정점부터 꺼내지도록(cost가 최소인 점을 선택)하는 이유: 
 		//최단거리가 되는 가능성이 있는 점들을 먼저 탐색하고 d[v]를 기록하기 위함
-		int cost = -pq.top().first;
-		int cur = pq.top().second;
+		/*
+		보충 설명
+		큐에 음수를 넣고 다시 꺼낼때 음수를 사용하는 이유:
+		우선순위큐는 가장 큰값이 제일위의값(top)임으로  " - " 를 곱해서
+		음수로 넣게 되면 가장 큰 값이 가장 작은 값이 되고 가장 작은 값이
+		가장 큰 값이 됨으로 " - " 를 곱해서 큐에 넣고 꺼낼때 
+		다시 " - " 를 곱해서 꺼냅니다. 
+		또는 이렇게 하지않을경우 
+		priority_queue<pair<int,int> ,vector<pair<int,int> >,greater<pair<int,int> > qu;
+		 이런식으로 선언하면 가장 작은 값이 가장 위로 정렬됩니다.
+		*/
+		int cost = -pq.top().first;	//cost는 다음 방문할 점의 dist값을 뜻함
+		int cur = pq.top().second;	//cur은 방문할 점의 번호를 뜻함
 		pq.pop();
 
 		//지금 꺼낸 것보다 더 짧은 경로를 알고 있다면 지금 꺼낸 것 무시
@@ -133,3 +144,66 @@ int main() {
 	}
 	cout << '\n';
 }
+
+
+/*
+//선형 탐색으로 하는 방식인데 n^2의 시간 복잡도이기에 시간 초과가 많이 뜰 것임.
+//정점은 많은데 간선은 얼마 없으면 치명적이고 비효율적인 알고리즘
+//가끔 빠르게 다익스트라 구현을 위해 사용되는 알고리즘
+#include<iostream>
+
+using namespace std;
+
+int number = 6;
+int INF = 1000000000; //약 10억이면 int 21억에 가깝게 가능
+
+int a[6][6] = {
+	{0, 2, 5, 1, INF,INF},
+	{2, 0, 3, 2, INF, INF},
+	{5, 3, 0, 3, 1, 5},
+	{1,2,3,0,1, INF},
+	{INF,INF, 1,1,0,2},
+	{INF,INF, 5, INF, 2, 0}
+};
+
+bool check[6];	//방문 처리할 배열
+int dist[6];	//최단 거리 저장할 배열
+
+int getSmallIndex() {
+	int min = INF;
+	int index = 0;
+	for (int i = 0; i < number; i++) {
+		if (dist[i] < min && check[i] == 0) {
+			min = dist[i];
+			index = i;
+		}
+	}
+	return index;
+}
+
+void dijkstra(int start) {
+	for (int i = 0; i < number; i++) {
+		dist[i] = a[start][i];
+	}
+	check[start] = 1;
+	for (int i = 0; i < number - 2; i++) {
+		int current = getSmallIndex();
+		check[current] = 1;
+		for (int j = 0; j < 6; j++) {
+			if (check[j] == 0) {
+				if (dist[current] + a[current][j] < dist[j]) {
+					dist[j] = dist[current] + a[current][j];
+				}
+			}
+		}
+	}
+}
+
+int main() {
+	dijkstra(0);
+	for (int i = 0; i < number; i++) cout << dist[i] << ' ';
+
+	return 0;
+}
+
+*/

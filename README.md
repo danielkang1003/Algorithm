@@ -67,6 +67,7 @@ C++ Algorithm
 ,[조세퍼스 문제 (BOJ 1158)](https://github.com/danielkang1003/Algorithm/blob/master/boj1158.cpp)
 ,[트럭 (BOJ 13335)](https://github.com/danielkang1003/Algorithm/blob/master/boj13335.cpp)
 
+
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
 ----
@@ -130,6 +131,8 @@ C++ Algorithm
 ,[바이러스 (BOJ 2606): DFS, BFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj2606.cpp)
 ,[결혼식 (BOJ 5567): BFS](https://github.com/danielkang1003/Algorithm/blob/master/boj5567.cpp)
 ,[숨바꼭질 (BOJ 6118: BFS)](https://github.com/danielkang1003/Algorithm/blob/master/boj6118.cpp)
+,[최소비용 구하기 (BOJ 1916)](https://github.com/danielkang1003/Algorithm/blob/master/boj1916.cpp)
+
 
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
 [(수  찾기 (BOJ 1920) stl사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920_bs.cpp)
@@ -171,3 +174,4 @@ C++ Algorithm
 
 *5. 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
++ [최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753.cpp)
