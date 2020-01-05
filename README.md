@@ -136,6 +136,8 @@ C++ Algorithm
 + 유니온 파인드|
 [집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1717.cpp)
 ,[바이러스 (BOJ 2606) -유니온 파인드 풀이](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2606_unionfind.cpp)
+,[최소 스패닝 트리 (BOJ 1197)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1197.cpp)
+,[네트워크 연결 (BOJ 1922)](https://github.com/danielkang1003/Algorithm/blob/master/boj1922.cpp)
 ----
 
 + 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
@@ -164,6 +166,7 @@ C++ Algorithm
 *4. 개념 정리*
 + [Merge Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
 + [Quick Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
++ [이진트리 구현& 순회(Pre,In,Post Order)](https://github.com/danielkang1003/Algorithm/blob/master/preinpostorder.cpp)
 + [Graph 구현 (STL 사용)](https://github.com/danielkang1003/Algorithm/blob/master/graph.cpp)
 + [Graph 구현 (STL 사용 불가 시)](https://github.com/danielkang1003/Algorithm/blob/master/graph_no_stl.cpp)
 + [BFS 연결 그래프에서 정점과의 거리 (무방향 그래프, 인접 리스트)](https://github.com/danielkang1003/Algorithm/blob/master/undirectedGraph.cpp)
@@ -175,6 +178,7 @@ C++ Algorithm
 + [DFS 단순 그래프(연결 그래프가 아닌) 순회](https://github.com/danielkang1003/Algorithm/blob/master/simple_graph_circuit_dfs.cpp)
 + [최단경로에 사용되는 다익스트라 알고리즘 구현](https://github.com/danielkang1003/Algorithm/blob/master/dijkstra.cpp)
 + [유니온 파인드 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/unionfind.cpp)
++ [크루스칼 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/kruskal.cpp)
 ----
 
 *5. 실패한 문제*
