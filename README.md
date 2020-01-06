@@ -132,6 +132,8 @@ C++ Algorithm
 ,[결혼식 (BOJ 5567): BFS](https://github.com/danielkang1003/Algorithm/blob/master/boj5567.cpp)
 ,[숨바꼭질 (BOJ 6118: BFS)](https://github.com/danielkang1003/Algorithm/blob/master/boj6118.cpp)
 ,[최소비용 구하기 (BOJ 1916)](https://github.com/danielkang1003/Algorithm/blob/master/boj1916.cpp)
+,[순열 사이클 -DFS (BOJ 10451)](https://github.com/danielkang1003/Algorithm/blob/master/boj10451.cpp)
+,[텀 프로젝트 -DFS (BOJ 9466)](https://github.com/danielkang1003/Algorithm/blob/master/boj9466.cpp)
 
 + 유니온 파인드|
 [집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1717.cpp)
