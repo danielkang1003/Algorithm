@@ -61,12 +61,13 @@ C++ Algorithm
 ,[일곱난쟁이 (BOJ 2309)](https://github.com/danielkang1003/Algorithm/blob/master/boj2309.cpp)
 ,[그릇 (BOJ 7567)](https://github.com/danielkang1003/Algorithm/blob/master/boj7567.cpp)
 ,[후위 표기식 (BOJ 1918)](https://github.com/danielkang1003/Algorithm/blob/master/boj1918.cpp)
+,[후위 표기식 (BOJ 1935)](https://github.com/danielkang1003/Algorithm/blob/master/boj1935.cpp)
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 ,[프린터 큐 (BOJ 1966)](https://github.com/danielkang1003/Algorithm/blob/master/boj1966.cpp)
 ,[조세퍼스 문제 (BOJ 1158)](https://github.com/danielkang1003/Algorithm/blob/master/boj1158.cpp)
 ,[트럭 (BOJ 13335)](https://github.com/danielkang1003/Algorithm/blob/master/boj13335.cpp)
-
+,[카드 2(BOJ 2164)](https://github.com/danielkang1003/Algorithm/blob/master/boj2164.cpp)
 
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
@@ -85,6 +86,7 @@ C++ Algorithm
 ,[음식물 피하기 (BOJ 1743) BFS, DFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj1743.cpp)
 ,[토마토 (BOJ 7576)](https://github.com/danielkang1003/Algorithm/blob/master/boj7576.cpp)
 ,[토마토 (BOJ 7569)](https://github.com/danielkang1003/Algorithm/blob/master/boj7569.cpp)
+,[연구소 (BOJ 14502)](https://github.com/danielkang1003/Algorithm/blob/master/boj14502.cpp)
 ----
 
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
@@ -150,6 +152,8 @@ C++ Algorithm
 
 + 힙|[최소 힙 (BOJ 1927)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927.cpp)
 ,[최소 힙 (BOJ 1927 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927_stl.cpp)
+,[최대 힙 (BOJ 11279)](https://github.com/danielkang1003/Algorithm/blob/master/boj11279.cpp)
+,[절대값 힙 (BOJ 11286)](https://github.com/danielkang1003/Algorithm/blob/master/boj11286.cpp)
 
 + 삼성 SW 역량 테스트 기출|
 [시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
