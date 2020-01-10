@@ -33,6 +33,7 @@ C++ Algorithm
 ,[곱셈 (BOJ 1629)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj1629.cpp)
 ,[하노이 탑 (BOJ 11729)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj11729.cpp)
 ----
+
 + 문자열 |[크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2941.cpp)
 		+[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
 ,[단어 공부 (BOJ 1157)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1157.cpp)
@@ -40,6 +41,8 @@ C++ Algorithm
 ,[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1475.cpp)
 ,[쇠막대기 (BOJ 10799)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10799.cpp)
 ,[에너그램 만들기 (BOJ 1919)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1919.cpp)
+,[듣보잡 (BOJ 1764)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1764.cpp)
+,[회사에 있는 사람 (BOJ 7785)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj7785.cpp)
 ----
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
 ,[2xn 타일링2 (BOJ 11727)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11727.cpp)
@@ -149,6 +152,7 @@ C++ Algorithm
 ,[숫자카드 (BOJ 10815)](https://github.com/danielkang1003/Algorithm/blob/master/boj10815.cpp)
 ,[숫자카드2 (BOJ 10816)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816.cpp)
 ,[숫자카드2 (BOJ 10816 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816_bound.cpp)
+,[차집합 (BOJ 1822)](https://github.com/danielkang1003/Algorithm/blob/master/boj1822.cpp)
 
 + 힙|[최소 힙 (BOJ 1927)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927.cpp)
 ,[최소 힙 (BOJ 1927 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927_stl.cpp)
