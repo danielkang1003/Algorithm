@@ -44,6 +44,7 @@ C++ Algorithm
 ,[듣보잡 (BOJ 1764)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1764.cpp)
 ,[회사에 있는 사람 (BOJ 7785)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj7785.cpp)
 ----
+
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
 ,[2xn 타일링2 (BOJ 11727)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11727.cpp)
 ,[오르막 수 (BOJ 11057)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11057.cpp)
@@ -54,6 +55,7 @@ C++ Algorithm
 ,[계단 오르기 (BOJ 2579)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2579.cpp)
 ,[타일 채우기 (BOJ 2133](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj2133.cpp)
 ----
+
 + Stack |[스택 (BOJ 10828)](https://github.com/danielkang1003/Algorithm/blob/master/boj10828.cpp)
 ,[괄호의 값 (BOJ 2504)](https://github.com/danielkang1003/Algorithm/blob/master/boj2504.cpp)
 ,[괄호 (BOJ 9012)](https://github.com/danielkang1003/Algorithm/blob/master/boj9012.cpp)
@@ -65,6 +67,8 @@ C++ Algorithm
 ,[그릇 (BOJ 7567)](https://github.com/danielkang1003/Algorithm/blob/master/boj7567.cpp)
 ,[후위 표기식 (BOJ 1918)](https://github.com/danielkang1003/Algorithm/blob/master/boj1918.cpp)
 ,[후위 표기식 (BOJ 1935)](https://github.com/danielkang1003/Algorithm/blob/master/boj1935.cpp)
+,[외계인의 기타연주 (BOJ 2841)](https://github.com/danielkang1003/Algorithm/blob/master/boj2841.cpp)
+
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 ,[프린터 큐 (BOJ 1966)](https://github.com/danielkang1003/Algorithm/blob/master/boj1966.cpp)
@@ -74,6 +78,7 @@ C++ Algorithm
 
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
+,[AC (BOJ 5430)](https://github.com/danielkang1003/Algorithm/blob/master/boj5430.cpp)
 ----
 
 + BFS|[그림 (BOJ 1926)](https://github.com/danielkang1003/Algorithm/blob/master/boj1926.cpp)
@@ -109,6 +114,7 @@ C++ Algorithm
 + 그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
 ,[회의실 배정 (BOJ 1931)](https://github.com/danielkang1003/Algorithm/blob/master/boj1931.cpp)
 ,[로프 (BOJ 2217)](https://github.com/danielkang1003/Algorithm/blob/master/boj2217.cpp)
+,[숫자 야구 (BOJ 2503)](https://github.com/danielkang1003/Algorithm/blob/master/boj2503.cpp)
 ----
 
 + 백트래킹, 시뮬레이션|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
