@@ -148,9 +148,9 @@ C++ Algorithm
 ,[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753_repeat.cpp)
 
 + 유니온 파인드|
-[집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1717.cpp)
-,[바이러스 (BOJ 2606) -유니온 파인드 풀이](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2606_unionfind.cpp)
-,[최소 스패닝 트리 (BOJ 1197)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1197.cpp)
+[집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/boj1717.cpp)
+,[바이러스 (BOJ 2606) -유니온 파인드 풀이](https://github.com/danielkang1003/Algorithm/blob/master/boj2606_unionfind.cpp)
+,[최소 스패닝 트리 (BOJ 1197)](https://github.com/danielkang1003/Algorithm/blob/master/boj1197.cpp)
 ,[네트워크 연결 (BOJ 1922)](https://github.com/danielkang1003/Algorithm/blob/master/boj1922.cpp)
 ----
 
