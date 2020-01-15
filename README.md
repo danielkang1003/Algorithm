@@ -146,6 +146,7 @@ C++ Algorithm
 ,[순열 사이클 -DFS (BOJ 10451)](https://github.com/danielkang1003/Algorithm/blob/master/boj10451.cpp)
 ,[텀 프로젝트 -DFS (BOJ 9466)](https://github.com/danielkang1003/Algorithm/blob/master/boj9466.cpp)
 ,[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753_repeat.cpp)
+,[특정한 최단 경로 (BOJ 1504)](https://github.com/danielkang1003/Algorithm/blob/master/boj1504.cpp)
 
 + 유니온 파인드|
 [집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/boj1717.cpp)
@@ -154,8 +155,8 @@ C++ Algorithm
 ,[네트워크 연결 (BOJ 1922)](https://github.com/danielkang1003/Algorithm/blob/master/boj1922.cpp)
 ----
 
-+ 이분탐색|[수 찾기 (BOJ 1920](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp),
-[(수  찾기 (BOJ 1920) stl사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920_bs.cpp)
++ 이분탐색|[수 찾기 (BOJ 1920)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920.cpp)
+,[(수  찾기 (BOJ 1920) stl사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1920_bs.cpp)
 ,[숫자카드 (BOJ 10815)](https://github.com/danielkang1003/Algorithm/blob/master/boj10815.cpp)
 ,[숫자카드2 (BOJ 10816)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816.cpp)
 ,[숫자카드2 (BOJ 10816 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816_bound.cpp)
@@ -165,6 +166,7 @@ C++ Algorithm
 ,[최소 힙 (BOJ 1927 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927_stl.cpp)
 ,[최대 힙 (BOJ 11279)](https://github.com/danielkang1003/Algorithm/blob/master/boj11279.cpp)
 ,[절대값 힙 (BOJ 11286)](https://github.com/danielkang1003/Algorithm/blob/master/boj11286.cpp)
+
 
 + 삼성 SW 역량 테스트 기출|
 [시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
