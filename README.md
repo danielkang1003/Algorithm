@@ -170,7 +170,7 @@ C++ Algorithm
 
 + 삼성 SW 역량 테스트 기출|
 [시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
-
+,[로봇 청소기 (BOJ 14503)](https://github.com/danielkang1003/Algorithm/blob/master/boj14503.cpp)
 
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
