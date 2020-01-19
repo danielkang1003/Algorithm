@@ -148,6 +148,7 @@ C++ Algorithm
 ,[텀 프로젝트 -DFS (BOJ 9466)](https://github.com/danielkang1003/Algorithm/blob/master/boj9466.cpp)
 ,[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753_repeat.cpp)
 ,[특정한 최단 경로 (BOJ 1504)](https://github.com/danielkang1003/Algorithm/blob/master/boj1504.cpp)
+,[효율적인 해킹 (BOJ 1325)](https://github.com/danielkang1003/Algorithm/blob/master/boj1325.cpp)
 
 + 유니온 파인드|
 [집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/boj1717.cpp)
