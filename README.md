@@ -26,7 +26,8 @@ C++ Algorithm
 ,[연속합 (BOJ 1912)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1912.cpp)
 ,[ROT 13 (BOJ 11655)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj11655.cpp)
 ,[네 수 (BOJ 10824)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10824.cpp)
-
+,[누울 자리를 찾아라 (BOJ 1652)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1652.cpp)
+,[카드 게임 (BOJ 2621)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2621.cpp)
 ----
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
