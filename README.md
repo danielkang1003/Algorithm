@@ -111,6 +111,8 @@ C++ Algorithm
 ,[수 정렬하기 (BOJ 2750) - quick sort 사용](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
 ,[방 배정 (BOJ 13300)](https://github.com/danielkang1003/Algorithm/blob/master/boj13300.cpp)
 ,[접미사 배열 (BOJ 11656)](https://github.com/danielkang1003/Algorithm/blob/master/boj11656.cpp)
+,[올림픽 (BOJ 8979)](https://github.com/danielkang1003/Algorithm/blob/master/boj8979.cpp)
+,[등수 구하기 (BOJ 1205)](https://github.com/danielkang1003/Algorithm/blob/master/boj1205.cpp)
 ----
 
 + 그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
@@ -136,6 +138,7 @@ C++ Algorithm
 ,[부분수열의 합 (BOJ 1182)](https://github.com/danielkang1003/Algorithm/blob/master/boj1182.cpp)
 ,[로또 (BOJ 6603)](https://github.com/danielkang1003/Algorithm/blob/master/boj6603.cpp)
 ,[암호 만들기 (BOJ 1759)](https://github.com/danielkang1003/Algorithm/blob/master/boj1759.cpp)
+,[차이를 최대로 (BOJ 10819)](https://github.com/danielkang1003/Algorithm/blob/master/boj10819.cpp)
 ----
 
 + 그래프|
