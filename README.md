@@ -45,7 +45,7 @@ C++ Algorithm
 ,[에너그램 만들기 (BOJ 1919)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1919.cpp)
 ,[듣보잡 (BOJ 1764)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1764.cpp)
 ,[회사에 있는 사람 (BOJ 7785)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj7785.cpp)
-
+,[팰린드롬인지 확인하기 (BOJ 10988)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10988.cpp)
 ----
 
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
