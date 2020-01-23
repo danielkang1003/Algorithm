@@ -113,6 +113,7 @@ C++ Algorithm
 ,[접미사 배열 (BOJ 11656)](https://github.com/danielkang1003/Algorithm/blob/master/boj11656.cpp)
 ,[올림픽 (BOJ 8979)](https://github.com/danielkang1003/Algorithm/blob/master/boj8979.cpp)
 ,[등수 구하기 (BOJ 1205)](https://github.com/danielkang1003/Algorithm/blob/master/boj1205.cpp)
+,[보물 (BOJ 1026)](https://github.com/danielkang1003/Algorithm/blob/master/boj1026.cpp)
 ----
 
 + 그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
