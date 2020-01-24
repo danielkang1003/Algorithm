@@ -37,7 +37,9 @@ C++ Algorithm
 
 + 문자열 |[크로아티아 알파벳(BOJ 2941)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2941.cpp)
 		+[string에서 []와 .at()의 차이점 (참고)](https://neodreamer-dev.tistory.com/m/256)
-,[명령 프롬프트](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1032.cpp)
+,[명령 프롬프트 (BOJ 1032)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1032.cpp)
+,[5와 6의 차이 (BOJ 2864)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2864.cpp)
+,[카이사르 암호 (BOJ 5598)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj5598.cpp)
 ,[단어 공부 (BOJ 1157)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1157.cpp)
 ,[에디터 (BOJ 1406)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1406.cpp)
 ,[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1475.cpp)
@@ -45,7 +47,9 @@ C++ Algorithm
 ,[에너그램 만들기 (BOJ 1919)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1919.cpp)
 ,[듣보잡 (BOJ 1764)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1764.cpp)
 ,[회사에 있는 사람 (BOJ 7785)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj7785.cpp)
+,[유학 금지(BOJ 2789)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2789.cpp)
 ,[팰린드롬인지 확인하기 (BOJ 10988)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10988.cpp)
+,[문자열 (BOJ 1120)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1120.cpp)
 ----
 
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
@@ -180,7 +184,7 @@ C++ Algorithm
 + 삼성 SW 역량 테스트 기출|
 [시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
 ,[로봇 청소기 (BOJ 14503)](https://github.com/danielkang1003/Algorithm/blob/master/boj14503.cpp)
-
+,[주사위 굴리기 (BOJ 14499)](https://github.com/danielkang1003/Algorithm/blob/master/boj14499.cpp)
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
 + 문자열 |[문자열을 정수로 바꾸기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.cpp)
@@ -207,7 +211,7 @@ C++ Algorithm
 + [최단경로에 사용되는 다익스트라 알고리즘 구현](https://github.com/danielkang1003/Algorithm/blob/master/dijkstra.cpp)
 + [유니온 파인드 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/unionfind.cpp)
 + [크루스칼 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/kruskal.cpp)
-
++ [힙 구현](https://github.com/danielkang1003/Algorithm/blob/master/heap.cpp)
 ----
 
 *5. 실패한 문제*
