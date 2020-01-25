@@ -185,6 +185,8 @@ C++ Algorithm
 [시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
 ,[로봇 청소기 (BOJ 14503)](https://github.com/danielkang1003/Algorithm/blob/master/boj14503.cpp)
 ,[주사위 굴리기 (BOJ 14499)](https://github.com/danielkang1003/Algorithm/blob/master/boj14499.cpp)
+,[톱니바퀴 (BOJ 14891)](https://github.com/danielkang1003/Algorithm/blob/master/boj14891.cpp)
+
 *2. 프로그래머스*
 + 문자열 |[서울에서 김서방 찾기](https://github.com/danielkang1003/Algorithm/blob/master/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.cpp)
 + 문자열 |[문자열을 정수로 바꾸기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.cpp)
