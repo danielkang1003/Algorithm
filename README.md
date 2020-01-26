@@ -213,9 +213,10 @@ C++ Algorithm
 + [최단경로에 사용되는 다익스트라 알고리즘 구현](https://github.com/danielkang1003/Algorithm/blob/master/dijkstra.cpp)
 + [유니온 파인드 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/unionfind.cpp)
 + [크루스칼 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/kruskal.cpp)
-+ [힙 구현](https://github.com/danielkang1003/Algorithm/blob/master/heap.cpp)
+
 ----
 
 *5. 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
 + ~~[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753.cpp)~~
++ [Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp) : 제대로 안 터지는 문제  찾는 중
