@@ -50,6 +50,7 @@ C++ Algorithm
 ,[유학 금지(BOJ 2789)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2789.cpp)
 ,[팰린드롬인지 확인하기 (BOJ 10988)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10988.cpp)
 ,[문자열 (BOJ 1120)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1120.cpp)
+,[iSharp (BOJ 3568)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj3568.cpp)
 ----
 
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
@@ -146,6 +147,7 @@ C++ Algorithm
 ,[로또 (BOJ 6603)](https://github.com/danielkang1003/Algorithm/blob/master/boj6603.cpp)
 ,[암호 만들기 (BOJ 1759)](https://github.com/danielkang1003/Algorithm/blob/master/boj1759.cpp)
 ,[차이를 최대로 (BOJ 10819)](https://github.com/danielkang1003/Algorithm/blob/master/boj10819.cpp)
+,[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)
 ----
 
 + 그래프|
@@ -213,10 +215,10 @@ C++ Algorithm
 + [최단경로에 사용되는 다익스트라 알고리즘 구현](https://github.com/danielkang1003/Algorithm/blob/master/dijkstra.cpp)
 + [유니온 파인드 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/unionfind.cpp)
 + [크루스칼 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/kruskal.cpp)
-
++ [stl string stream - 주어진 문자열에서 특정 값만 꺼낼때](https://github.com/danielkang1003/Algorithm/blob/master/stringstream.cpp)
 ----
 
 *5. 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
 + ~~[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753.cpp)~~
-+ [Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp) : 제대로 안 터지는 문제  찾는 중
++ ~~[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)~~

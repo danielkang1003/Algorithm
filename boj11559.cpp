@@ -10,7 +10,7 @@ bool check[12][7];
 int dx[4] = { 0, 0, 1, -1 };
 int dy[4] = { 1, -1, 0, 0 };
 int possibleCnt = 0; //같은색이 네개 이상이 되면 터트리기 위한 변수
-int tempCnt = 0;
+
 
 vector<pair<int, int>> temp, vec;
 
@@ -27,7 +27,7 @@ void dfs(int x, int y) {
 		if (puyo[nx][ny] != puyo[x][y]) continue;
 		if (puyo[nx][ny] == '.') continue;
 		//조건에 부합하면 실행
-		tempCnt++;
+		possibleCnt++;
 		check[nx][ny] = 1;
 		temp.push_back({ nx,ny });
 
@@ -64,8 +64,8 @@ int main() {
 					cout << "temp 벡터에 들어간 색: " << puyo[i][j] << " 이고 i와 j는 " << temp.front().first << "와 " << temp.front().second << endl;
 					dfs(i, j);
 
-					if (tempCnt >= 4) {
-						cout << "tempCnt가 4이상이여서 진입\n현재 tempCnt :" << tempCnt << endl;
+					if (possibleCnt >= 4) {
+						cout << "tempCnt가 4이상이여서 진입\n현재 tempCnt :" << possibleCnt << endl;
 						flag = 1;	//색이 네개 이상 주변에 모여있으면 터트리기 위해 표시남김
 						int size = temp.size();	//dfs를 돌며 같은색인 것들
 
