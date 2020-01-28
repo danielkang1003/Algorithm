@@ -163,6 +163,11 @@ C++ Algorithm
 ,[특정한 최단 경로 (BOJ 1504)](https://github.com/danielkang1003/Algorithm/blob/master/boj1504.cpp)
 ,[효율적인 해킹 (BOJ 1325)](https://github.com/danielkang1003/Algorithm/blob/master/boj1325.cpp)
 
++ 세그먼트 트리|
+[구간 합 구하기 (BOJ 2042)](https://github.com/danielkang1003/Algorithm/blob/master/boj2042.cpp)
+,[구간 합 구하기 4 (BOJ 11659)](https://github.com/danielkang1003/Algorithm/blob/master/boj11659.cpp)
+,[구간 곱 구하기 (BOJ 11505)](https://github.com/danielkang1003/Algorithm/blob/master/boj11505.cpp)
+
 + 유니온 파인드|
 [집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/boj1717.cpp)
 ,[바이러스 (BOJ 2606) -유니온 파인드 풀이](https://github.com/danielkang1003/Algorithm/blob/master/boj2606_unionfind.cpp)
@@ -223,6 +228,7 @@ C++ Algorithm
 + [유니온 파인드 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/unionfind.cpp)
 + [크루스칼 알고리즘](https://github.com/danielkang1003/Algorithm/blob/master/kruskal.cpp)
 + [stl string stream - 주어진 문자열에서 특정 값만 꺼낼때](https://github.com/danielkang1003/Algorithm/blob/master/stringstream.cpp)
++ [세그먼트 트리](https://github.com/danielkang1003/Algorithm/blob/master/segmentTree.cpp)
 ----
 
 *5. 실패한 문제*
