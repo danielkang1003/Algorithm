@@ -1,6 +1,6 @@
 # Algorithm
 C++ Algorithm
---
+----
 *알고리즘 꾸준히 풀기!*
 *1일 1커밋 하자!*
 
@@ -195,6 +195,7 @@ C++ Algorithm
 ,[주사위 굴리기 (BOJ 14499)](https://github.com/danielkang1003/Algorithm/blob/master/boj14499.cpp)
 ,[톱니바퀴 (BOJ 14891)](https://github.com/danielkang1003/Algorithm/blob/master/boj14891.cpp)
 ,[괄호 추가하기 (BOJ 16637)](https://github.com/danielkang1003/Algorithm/blob/master/boj2503.cpp)
+,[파이프 옮기기 (BOJ 17070)](https://github.com/danielkang1003/Algorithm/blob/master/boj17070.cpp)
 ----
 
 *2. 프로그래머스*
