@@ -204,7 +204,7 @@ C++ Algorithm
 + 문자열 |[핸드폰 번호 가리기](https://github.com/danielkang1003/Algorithm/blob/master/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.cpp)
 ----
 
-*3. SWEA
+*3. SWEA*
 +D3 | [8931. 제로](https://github.com/danielkang1003/Algorithm/blob/master/zero.cpp)
 , [8741. 두문자어](https://github.com/danielkang1003/Algorithm/blob/master/swea8741.cpp)
 , [8821. 적고 지우기](https://github.com/danielkang1003/Algorithm/blob/master/swea8821.cpp)
