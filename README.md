@@ -211,11 +211,11 @@ C++ Algorithm
 , [8658. Summation](https://github.com/danielkang1003/Algorithm/blob/master/swea8685.cpp)
 ----
 
-*3. 혼자 만들어보는 알고리즘 게임*
+*4. 혼자 만들어보는 알고리즘 게임*
 - [끝말잇기](https://github.com/danielkang1003/Algorithm/blob/master/%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)
 ----
 
-*4. 개념 정리*
+*5. 개념 정리*
 + [Merge Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/merge_sort.cpp)
 + [Quick Sort 구현](https://github.com/danielkang1003/Algorithm/blob/master/quick_sort.cpp)
 + [이진트리 구현& 순회(Pre,In,Post Order)](https://github.com/danielkang1003/Algorithm/blob/master/preinpostorder.cpp)
@@ -235,7 +235,7 @@ C++ Algorithm
 + [세그먼트 트리](https://github.com/danielkang1003/Algorithm/blob/master/segmentTree.cpp)
 ----
 
-*5. 실패한 문제*
+*6. 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
 + ~~[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753.cpp)~~
 + ~~[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)~~
