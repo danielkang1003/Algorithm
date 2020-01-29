@@ -205,7 +205,7 @@ C++ Algorithm
 ----
 
 *3. SWEA *
-+D3 | [8931. 제로](https://github.com/danielkang1003/Algorithm/blob/master/zero.cpp)
++ D3 | [8931. 제로](https://github.com/danielkang1003/Algorithm/blob/master/zero.cpp)
 , [8741. 두문자어](https://github.com/danielkang1003/Algorithm/blob/master/swea8741.cpp)
 , [8821. 적고 지우기](https://github.com/danielkang1003/Algorithm/blob/master/swea8821.cpp)
 , [8658. Summation](https://github.com/danielkang1003/Algorithm/blob/master/swea8685.cpp)
