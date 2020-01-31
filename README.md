@@ -210,6 +210,8 @@
 , [8741. 두문자어](https://github.com/danielkang1003/Algorithm/blob/master/swea8741.cpp)
 , [8821. 적고 지우기](https://github.com/danielkang1003/Algorithm/blob/master/swea8821.cpp)
 , [8658. Summation](https://github.com/danielkang1003/Algorithm/blob/master/swea8685.cpp)
+, [2001. 파리퇴치](https://github.com/danielkang1003/Algorithm/blob/master/swea2001.cpp)
+, [1989. 초심자의 회문 검사](https://github.com/danielkang1003/Algorithm/blob/master/swea1989.cpp)
 ----
 
 *4. 혼자 만들어보는 알고리즘 게임*
