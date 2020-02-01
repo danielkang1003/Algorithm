@@ -128,7 +128,6 @@
 ,[회의실 배정 (BOJ 1931)](https://github.com/danielkang1003/Algorithm/blob/master/boj1931.cpp)
 ,[로프 (BOJ 2217)](https://github.com/danielkang1003/Algorithm/blob/master/boj2217.cpp)
 ,[숫자 야구 (BOJ 2503)](https://github.com/danielkang1003/Algorithm/blob/master/boj2503.cpp)
-
 ----
 
 + 백트래킹, 시뮬레이션|[N과 M(1) (BOJ 15649)](https://github.com/danielkang1003/Algorithm/blob/master/boj15649.cpp)
@@ -164,11 +163,13 @@
 ,[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753_repeat.cpp)
 ,[특정한 최단 경로 (BOJ 1504)](https://github.com/danielkang1003/Algorithm/blob/master/boj1504.cpp)
 ,[효율적인 해킹 (BOJ 1325)](https://github.com/danielkang1003/Algorithm/blob/master/boj1325.cpp)
+----
 
 + 세그먼트 트리|
 [구간 합 구하기 (BOJ 2042)](https://github.com/danielkang1003/Algorithm/blob/master/boj2042.cpp)
 ,[구간 합 구하기 4 (BOJ 11659)](https://github.com/danielkang1003/Algorithm/blob/master/boj11659.cpp)
 ,[구간 곱 구하기 (BOJ 11505)](https://github.com/danielkang1003/Algorithm/blob/master/boj11505.cpp)
+----
 
 + 유니온 파인드|
 [집합의 표현 (BOJ 1717)](https://github.com/danielkang1003/Algorithm/blob/master/boj1717.cpp)
@@ -183,12 +184,13 @@
 ,[숫자카드2 (BOJ 10816)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816.cpp)
 ,[숫자카드2 (BOJ 10816 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816_bound.cpp)
 ,[차집합 (BOJ 1822)](https://github.com/danielkang1003/Algorithm/blob/master/boj1822.cpp)
+----
 
 + 힙|[최소 힙 (BOJ 1927)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927.cpp)
 ,[최소 힙 (BOJ 1927 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927_stl.cpp)
 ,[최대 힙 (BOJ 11279)](https://github.com/danielkang1003/Algorithm/blob/master/boj11279.cpp)
 ,[절대값 힙 (BOJ 11286)](https://github.com/danielkang1003/Algorithm/blob/master/boj11286.cpp)
-
+----
 
 + 삼성 SW 역량 테스트 기출|
 [시험 감독 (BOJ 13458)](https://github.com/danielkang1003/Algorithm/blob/master/boj13458.cpp)
@@ -243,4 +245,4 @@
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
 + ~~[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753.cpp)~~
 + ~~[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)~~
-~~[⚾ (BOJ 17281)](https://github.com/danielkang1003/Algorithm/blob/master/boj17281.cpp)~~
++ ~~[⚾ (BOJ 17281)](https://github.com/danielkang1003/Algorithm/blob/master/boj17281.cpp)~~
