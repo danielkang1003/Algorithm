@@ -201,6 +201,7 @@
 ,[괄호 추가하기 (BOJ 16637)](https://github.com/danielkang1003/Algorithm/blob/master/boj2503.cpp)
 ,[파이프 옮기기 (BOJ 17070)](https://github.com/danielkang1003/Algorithm/blob/master/boj17070.cpp)
 ,[⚾ (BOJ 17281)](https://github.com/danielkang1003/Algorithm/blob/master/boj17281.cpp)
+,[배열 돌리기4 (BOJ 17406)](https://github.com/danielkang1003/Algorithm/blob/master/boj17406.cpp)
 ----
 
 *2. 프로그래머스*
@@ -242,8 +243,9 @@
 + [세그먼트 트리](https://github.com/danielkang1003/Algorithm/blob/master/segmentTree.cpp)
 ----
 
-*6. 실패한 문제*
+*6. 다시 풀어볼 문제 또는 실패한 문제*
 + ~~[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468.cpp)~~
 + ~~[최단경로 (BOJ 1753)](https://github.com/danielkang1003/Algorithm/blob/master/boj1753.cpp)~~
 + ~~[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)~~
 + ~~[⚾ (BOJ 17281)](https://github.com/danielkang1003/Algorithm/blob/master/boj17281.cpp)~~
++ ~~[배열 돌리기4 (BOJ 17406)](https://github.com/danielkang1003/Algorithm/blob/master/boj17406.cpp)~~
