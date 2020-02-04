@@ -142,6 +142,7 @@
 ,[N과 M(10) (BOJ 15664)](https://github.com/danielkang1003/Algorithm/blob/master/boj15664.cpp)
 ,[N과 M(11) (BOJ 15665)](https://github.com/danielkang1003/Algorithm/blob/master/boj15665.cpp)
 ,[N과 M(12) (BOJ 15666)](https://github.com/danielkang1003/Algorithm/blob/master/boj15666.cpp)
+,[블랙잭 (BOJ 2798)](https://github.com/danielkang1003/Algorithm/blob/master/boj2798.cpp)
 ,[공 (BOJ 1547)](https://github.com/danielkang1003/Algorithm/blob/master/boj1547.cpp)
 ,[N-Queen (BOJ 9663)](https://github.com/danielkang1003/Algorithm/blob/master/boj9663.cpp)
 ,[부분수열의 합 (BOJ 1182)](https://github.com/danielkang1003/Algorithm/blob/master/boj1182.cpp)
@@ -150,6 +151,7 @@
 ,[차이를 최대로 (BOJ 10819)](https://github.com/danielkang1003/Algorithm/blob/master/boj10819.cpp)
 ,[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)
 ,[사탕 게임 (BOJ 3085)](https://github.com/danielkang1003/Algorithm/blob/master/boj3085.cpp)
+,[알파벳 (BOJ 1987)](https://github.com/danielkang1003/Algorithm/blob/master/boj1987.cpp)
 ----
 
 + 그래프|
