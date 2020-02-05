@@ -206,6 +206,7 @@
 ,[⚾ (BOJ 17281)](https://github.com/danielkang1003/Algorithm/blob/master/boj17281.cpp)
 ,[배열 돌리기4 (BOJ 17406)](https://github.com/danielkang1003/Algorithm/blob/master/boj17406.cpp)
 ,[연산자 끼워넣기 (BOJ 14888](https://github.com/danielkang1003/Algorithm/blob/master/boj14888.cpp)
+,[스타트와 링크 (BOJ 14889)](https://github.com/danielkang1003/Algorithm/blob/master/boj14889.cpp)
 ----
 
 *2. 프로그래머스*
