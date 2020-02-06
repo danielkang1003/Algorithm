@@ -153,6 +153,7 @@
 ,[사탕 게임 (BOJ 3085)](https://github.com/danielkang1003/Algorithm/blob/master/boj3085.cpp)
 ,[알파벳 (BOJ 1987)](https://github.com/danielkang1003/Algorithm/blob/master/boj1987.cpp)
 ,[치킨 배달 (BOJ 15686)](https://github.com/danielkang1003/Algorithm/blob/master/boj15686.cpp)
+,[순열의 순서 (BOJ 1722)](https://github.com/danielkang1003/Algorithm/blob/master/boj1722.cpp)
 ----
 
 + 그래프|
