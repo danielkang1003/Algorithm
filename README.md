@@ -161,6 +161,8 @@
 ,[치킨 배달 (BOJ 15686)](https://github.com/danielkang1003/Algorithm/blob/master/boj15686.cpp)
 ,[순열의 순서 (BOJ 1722)](https://github.com/danielkang1003/Algorithm/blob/master/boj1722.cpp)
 ,[맥주 마시면서 걸어가기 (BOJ 9205)](https://github.com/danielkang1003/Algorithm/blob/master/boj9205.cpp)
+,[경사로 (BOJ 14890)](https://github.com/danielkang1003/Algorithm/blob/master/boj14890.cpp)
+,[감시 (BOJ 15683)](https://github.com/danielkang1003/Algorithm/blob/master/boj15683.cpp)
 ----
 
 + 그래프|
