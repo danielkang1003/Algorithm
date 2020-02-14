@@ -28,7 +28,9 @@
 ,[네 수 (BOJ 10824)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj10824.cpp)
 ,[누울 자리를 찾아라 (BOJ 1652)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1652.cpp)
 ,[카드 게임 (BOJ 2621)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2621.cpp)
+,[셀프 넘버 (BOJ 4673)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj4673.cpp)
 ----
+
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
 ,[팩토리얼 (BOJ 10872)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10872.cpp)
 ,[곱셈 (BOJ 1629)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj1629.cpp)
@@ -197,7 +199,8 @@
 ,[숫자카드 (BOJ 10815)](https://github.com/danielkang1003/Algorithm/blob/master/boj10815.cpp)
 ,[숫자카드2 (BOJ 10816)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816.cpp)
 ,[숫자카드2 (BOJ 10816 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816_bound.cpp)
-,[차집합 (BOJ 1822)](https://github.com/danielkang1003/Algorithm/blob/master/boj1822.cpp)
+,[차집합 (BOJ 1822) - 이분탐색, set 사용](https://github.com/danielkang1003/Algorithm/blob/master/boj1822.cpp)
+,[수들의 합 (BOJ 2003)](https://github.com/danielkang1003/Algorithm/blob/master/boj2003.cpp)
 ----
 
 + 힙|[최소 힙 (BOJ 1927)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927.cpp)
@@ -218,6 +221,7 @@
 ,[연산자 끼워넣기 (BOJ 14888](https://github.com/danielkang1003/Algorithm/blob/master/boj14888.cpp)
 ,[스타트와 링크 (BOJ 14889)](https://github.com/danielkang1003/Algorithm/blob/master/boj14889.cpp)
 ,[나무 재테크 (BOJ 16235)](https://github.com/danielkang1003/Algorithm/blob/master/boj16235.cpp)
+,[뱀 (BOJ 3190](https://github.com/danielkang1003/Algorithm/blob/master/boj3190.cpp)
 ----
 
 *2. 프로그래머스*
