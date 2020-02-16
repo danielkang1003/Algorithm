@@ -1,53 +1,60 @@
 #include<iostream>
 #include<queue>
+
 using namespace std;
 
+const int MAX = 100001;
+
 int n, k;
-int hideAndSeek[100001];// 0은 길, 1은 수빈(술래), 9 는 동생
-int check[100001];
-int dx[2] = { -1,1 };
+bool check[MAX];
+int dx[3] = { 1,-1,2 };
 
-void bfs(int n) {
+void bfs(int pos) {
 	queue<pair<int, int>> q;
-	q.push({ n, 0 });	//수빈이의 자리와 시간
-	check[n] = 1;
+	q.push({ pos, 0 });
+	check[pos] = 1;
 	while (!q.empty()) {
-		int x = q.front().first;	//수빈이 자리
-		int time = q.front().second;	//수빈이 이동한 횟수(초)
-		if (x == k) {
-			cout << time << '\n';
-			break;
-		}
+		int x = q.front().first;
+		int cnt = q.front().second;
 		q.pop();
-		for (int dir = 0; dir < 2; dir++) {
-			int nx = x + dx[dir];
-			if (nx < 0 || nx >= 100001) continue;
-			if (hideAndSeek[nx] == 0 && check[nx] == 0) {
-				q.push({ nx, time + 1 });
+		if (x == k) {
+			cout << cnt << '\n';
+			return;
+		}
+		for(int dir = 0; dir < 3; dir++){
+			int nx;
+			if (dir == 2) nx = x * dx[dir];
+			 else nx = x + dx[dir];
+			
+			if (nx < 0 || nx >= MAX) continue;
+			if (check[nx] == 0) {
+				q.push({ nx, cnt + 1 });
 				check[nx] = 1;
-				hideAndSeek[nx] = hideAndSeek[x] + 1;	//확인용
 			}
 		}
-		if (2 * x < 100001) {
-			if (check[2 * x] == 0) {
-				q.push({ 2 * x, time + 1 });
-				check[2 * x] = 1;
-				hideAndSeek[2 * x] = hideAndSeek[x] + 1;
+		/*if (x * 2 < MAX) {
+			if (check[x * 2] == 0) {
+				q.push({ x * 2, cnt + 1 });
+				check[x * 2] = 1;
 			}
 		}
+		if (x + 1 >= 0 && x + 1 < MAX) {
+			if (check[x + 1] == 0) {
+				q.push({ x + 1, cnt + 1 });
+				check[x + 1] = 1;
+			}
+		}
+		if (x - 1 >= 0 && x - 1 < MAX) {
+			if (check[x - 1] == 0) {
+				q.push({ x - 1, cnt + 1 });
+				check[x - 1] = 1;
+			}
+		}*/
 	}
-
 }
 
 int main() {
 	cin >> n >> k;
-	//확인용
-	//hideAndSeek[n] = 1;	//수빈 (술래)
-	//hideAndSeek[k] = 9;	//동생
-	//for (int i = 1; i <= 20; i++) cout << hideAndSeek[i] << ' ';
-	//cout <<'\n';
 	bfs(n);
-	//for (int i = 1; i <= 20; i++) cout << hideAndSeek[i] << ' ';
-
 	return 0;
 }

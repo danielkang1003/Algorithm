@@ -3,41 +3,54 @@
 
 using namespace std;
 
-int maze[100][100];
-int check[100][100];
-int dx[4] = { 1,-1,0,0 };
-int dy[4] = { 0,0,1,-1 };
 int n, m;
+int map[100][100];
+bool check[100][100];
 
-void bfs(int i, int j) {
-	queue<pair<int, int>>q;
-	q.push({ i,j });
-	check[i][j] = 1;
+int dx[4] = { 0,0,1,-1 };
+int dy[4] = { 1,-1,0,0 };
+
+void bfs(int sx, int sy) {
+	queue<pair<int, int>> q;
+	q.push({ sx,sy });
+	check[sx][sy] = 1;
 	while (!q.empty()) {
 		int x = q.front().first;
 		int y = q.front().second;
 		q.pop();
+		if (x == n - 1 && y == m - 1) {
+			cout << map[n - 1][m - 1] << '\n';
+		}
 		for (int dir = 0; dir < 4; dir++) {
 			int nx = x + dx[dir];
 			int ny = y + dy[dir];
-			if (nx < 0 || ny < 0 || nx >= n || ny >= m)
-				continue;
-			if (check[nx][ny] == 1 || maze[nx][ny] == 0)
-				continue;
-			q.push({ nx,ny });
+			if (nx < 0 || ny < 0 || nx >= n || ny >= m) continue;
+			if (check[nx][ny] == 1) continue;
+			if (map[nx][ny] == 0) continue;
+			map[nx][ny] = map[x][y] + 1;
 			check[nx][ny] = 1;
-			maze[nx][ny] = maze[x][y] + 1;
+			q.push({ nx,ny });
 		}
 	}
 }
-int main() {
-	scanf("%d %d", &n, &m);
+
+void print() {
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
-			scanf("%1d", &maze[i][j]);
+			cout << map[i][j] << ' ';
 		}
+		cout << '\n';
 	}
+
+}
+
+int main() {
+	cin >> n >> m;
+	for (int i = 0; i < n; i++)
+		for (int j = 0; j < m; j++)
+			scanf_s("%1d", &map[i][j]);
 	bfs(0, 0);
-	cout << maze[n - 1][m - 1];
+	//print();
+
 	return 0;
 }

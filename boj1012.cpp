@@ -3,27 +3,27 @@
 #include<cstring>
 using namespace std;
 
-int m, n, k;
-int t, x, y;
-int land[50][50];
-int check[50][50];
+int tc, n, m, k;
+int map[50][50];
+bool check[50][50];
+int dx[4] = { 0,0,1,-1 };
+int dy[4] = { 1,-1,0,0 };
 
-int dx[4] = { 1,-1,0,0 };
-int dy[4] = { 0,0,1,-1 };
-
-void bfs(int i, int j) {
+void bfs(int sx, int sy) {
 	queue<pair<int, int>> q;
-	q.push({ i,j });
-	check[i][j] = 1;
+	q.push({ sx,sy });
+	check[sx][sy] = 1;
 	while (!q.empty()) {
 		int x = q.front().first;
 		int y = q.front().second;
 		q.pop();
+
 		for (int dir = 0; dir < 4; dir++) {
 			int nx = x + dx[dir];
 			int ny = y + dy[dir];
 			if (nx < 0 || ny < 0 || nx >= n || ny >= m) continue;
-			if (land[nx][ny] == 0 || check[nx][ny] == 1) continue;
+			if (check[nx][ny] == 1) continue;
+			if (map[nx][ny] == 0) continue;
 			q.push({ nx,ny });
 			check[nx][ny] = 1;
 		}
@@ -31,34 +31,27 @@ void bfs(int i, int j) {
 }
 
 int main() {
-	ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
-	cin >> t;
-	while (t--) {
-		memset(land, 0, sizeof(land));
+	cin >> tc;
+	for (int t = 0; t < tc; t++) {
+		memset(map, 0, sizeof(map));
 		memset(check, 0, sizeof(check));
 		cin >> m >> n >> k;
-		while (k--) {
-			//x¿Í y Á¶½É!!!
+		for (int i = 0; i < k; i++) {
+			int x, y;
 			cin >> y >> x;
-			land[x][y] = 1;
+			map[x][y] = 1;
 		}
-
-		/*for (int i = 0; i < n; i++) {
-			for (int j = 0; j < m; j++) {
-				cout << land[i][j] << ' ';
-			}
-			cout << '\n';
-		}*/
-
-		int cnt = 0;
+		int answer = 0;
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
-				if (land[i][j] == 1 && check[i][j] == 0) {
-					cnt++;
+				if (map[i][j] == 1 && check[i][j] == 0) {
 					bfs(i, j);
+					answer++;
 				}
 			}
 		}
-		cout << cnt << '\n';
+		cout << answer << '\n';
 	}
+
+	return 0;
 }

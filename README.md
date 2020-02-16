@@ -100,7 +100,6 @@
 ,[적록색약 (BOJ 10026)](https://github.com/danielkang1003/Algorithm/blob/master/boj10026.cpp)
 ,[안전영역 (BOJ 2468)](https://github.com/danielkang1003/Algorithm/blob/master/boj2468solved.cpp)
 ,[벽부수고 이동하기 (BOJ 2206)](https://github.com/danielkang1003/Algorithm/blob/master/boj2206.cpp)
-,[숨바꼭질 (BOJ 1697)](https://github.com/danielkang1003/Algorithm/blob/master/boj1697.cpp)
 ,[음식물 피하기 (BOJ 1743) BFS, DFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj1743.cpp)
 ,[토마토 (BOJ 7576)](https://github.com/danielkang1003/Algorithm/blob/master/boj7576.cpp)
 ,[토마토 (BOJ 7569)](https://github.com/danielkang1003/Algorithm/blob/master/boj7569.cpp)
@@ -111,6 +110,7 @@
 ,[다리 만들기 (BOJ 2146)](https://github.com/danielkang1003/Algorithm/blob/master/boj2146.cpp)
 ,[스타트링크 (BOJ 5014)](https://github.com/danielkang1003/Algorithm/blob/master/boj5014.cpp)
 ,[상범 빌딩 (BOJ 6593)](https://github.com/danielkang1003/Algorithm/blob/master/boj6593.cpp)
+,[숨바꼭질 (BOJ 1697)](https://github.com/danielkang1003/Algorithm/blob/master/boj1697.cpp)
 ,[숨바꼭질 3 (BOJ 13549)](https://github.com/danielkang1003/Algorithm/blob/master/boj13549.cpp)
 ,[숨바꼭질 4 (BOJ 13913)](https://github.com/danielkang1003/Algorithm/blob/master/boj13913.cpp)
 ----
