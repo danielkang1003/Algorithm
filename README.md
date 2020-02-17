@@ -102,7 +102,7 @@
 ,[벽부수고 이동하기 (BOJ 2206)](https://github.com/danielkang1003/Algorithm/blob/master/boj2206.cpp)
 ,[음식물 피하기 (BOJ 1743) BFS, DFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj1743.cpp)
 ,[토마토 (BOJ 7576)](https://github.com/danielkang1003/Algorithm/blob/master/boj7576.cpp)
-,[토마토 (BOJ 7569)](https://github.com/danielkang1003/Algorithm/blob/master/boj7569.cpp)
+,[토마토 - n높이 (BOJ 7569)](https://github.com/danielkang1003/Algorithm/blob/master/boj7569.cpp)
 ,[연구소 (BOJ 14502)](https://github.com/danielkang1003/Algorithm/blob/master/boj14502.cpp)
 ,[로봇 청소기 - BFS 풀이 포함 (BOJ 14503)](https://github.com/danielkang1003/Algorithm/blob/master/boj14503.cpp)
 ,[빙산 (BOJ 2573)](https://github.com/danielkang1003/Algorithm/blob/master/boj2573.cpp)

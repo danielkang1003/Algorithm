@@ -1,82 +1,90 @@
 #include<iostream>
 #include<queue>
-#include<cmath>
 
 using namespace std;
 
-int m, n;
-int box[1001][1001];
-int dx[4] = { 1,-1,0,0 };
-int dy[4] = { 0,0,1,-1 };
-queue<pair<int, int>> q;
+int m, n, answer;
+int map[1000][1000];
+bool check[1000][1000];
 
-/*한참 헤맸던 문제이다. check배열을 사용해서 풀다보니까
-익은 토마토가 두 곳 이상에서 bfs를 돌아야하는 테스트 케이스에서 풀리지가 않았다
+int dx[4] = { 0,0,1,-1 };
+int dy[4] = { 1,-1,0,0 };
+queue<pair<pair<int, int>, int>> q;
 
-해결책으로 전역 변수에 check배열을 없애주고, 토마토가 1인 것을 모두 다 큐에 담아주고 시작했다.
-그러고 난 후 bfs를 돌렸다.
-bfs를 돌면서 토마토가 들어간 박스가 익지 않았다면 (box[x][y] 가 0일 때)
-토마토 개수를 1씩 증가시켰다. (문제는 익은 토마토는 1로 되있어서 마지막에 -1을 해주어야 걸린 시간을 출력 가능하다)
 
-bfs를 돌리고 잘 출력이 되는지 확인을 해보니 잘 된다. 주석으로 처리해놓음.
-주어진 문제에서 보관된 토마토 중에 익지 않은 토마토(0) 이 있다면 -1 처리해달라고 함
-그리고 익은 토마토 중 (날짜) 가장 큰 수를 계속 업데이트 시켜주었다.
-마지막엔 최대 날짜의 토마토에서 -1 해주면 정답!
+void print() {
+	cout << "##############\n";
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			cout << map[i][j] << ' ';
+		}
+		cout << '\n';
+	}
+	cout << "##############\n";
+}
+//토마토 익는 거 끝나고 한번 돌아서 덜 익은게 잇는지 확인
+bool checkMatured() {
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			if (map[i][j] == 0) {
+				return false;
+			}
+		}
+	}
+	return true;
+}
 
-6 4
-1 -1 0 0 0 0
-0 -1 0 0 0 0
-0 0 0 0 -1 0
-0 0 0 0 -1 1
-
-이부분이 문제였는데 통과가 잘 된다!
-*/
 void bfs() {
 	while (!q.empty()) {
-		int x = q.front().first;
-		int y = q.front().second;
+		int x = q.front().first.first;
+		int y = q.front().first.second;
+		int cnt = q.front().second;
 		q.pop();
+		//cout << "현재 BFS 수행 좌표 x: " << x << " y: " << y << " cnt: " << cnt <<'\n';
 
 		for (int dir = 0; dir < 4; dir++) {
 			int nx = x + dx[dir];
 			int ny = y + dy[dir];
-			if (nx < 0 || ny < 0 || nx >= n || ny >= m) continue;
-			if (box[nx][ny] == 0) {
-				box[nx][ny] = box[x][y] + 1;
-				q.push({ nx,ny });
-			}
+			if (nx < 0 || ny < 0 || nx >= n || ny >= m) continue;	//범위 벗어남
+			if (map[nx][ny] == -1) continue;	//벽
+			if (check[nx][ny] == 1) continue;	//방문했다면
+			//cout << "조건에 부합하는 다음 좌표 nx: " << nx << " ny: " << ny << '\n';
+			map[nx][ny] = map[x][y] + 1;
+			check[nx][ny] = 1;
+			q.push({ {nx,ny}, cnt + 1 });
+			//print();
 		}
+		answer = cnt;
 	}
+	if (checkMatured() == 0) cout << "-1\n";
+	else cout << answer << '\n';
 }
+
+
+
 int main() {
-	ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
 	cin >> m >> n;
+	bool matured = true;
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
-			cin >> box[i][j];
-			if (box[i][j] == 1)
-				q.push({ i,j });
+			cin >> map[i][j];
+			if (map[i][j] == 0) matured = false;
+		}
+	}
+	//이미 모든 토마토가 익어있는 상태
+	if (matured == true) {
+		cout << "0\n";
+		return 0;
+	}
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			if (map[i][j] == 1 && check[i][j] == 0) {
+				q.push({ {i,j}, 0 });
+				check[i][j] = 1;
+			}
 		}
 	}
 	bfs();
 
-	/*for (int i = 0; i < n; i++) {
-		for (int j = 0; j < m; j++) {
-			cout << box[i][j] << ' ';
-		}
-		cout << '\n';
-	}*/
-
-	int days = 0;
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < m; j++) {
-			if (box[i][j] == 0) {
-				cout << "-1\n";
-				return 0;
-			}
-			else days = max(days, box[i][j]);
-		}
-	}
-	cout << days - 1;
 	return 0;
 }
