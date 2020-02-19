@@ -1,85 +1,85 @@
 #include<iostream>
-#include<queue>
-#include<vector>
 #include<cstring>
-#include<algorithm>
+#include<queue>
+
 using namespace std;
 
 int n;
-int safeArea[100][100];
-int check[100][100];
-int dx[4] = { 1,-1,0,0 };
-int dy[4] = { 0,0,1,-1 };
-vector<int> v;
-int cnt;
+int map[100][100], c_map[100][100];
+bool check[100][100];
 
-void bfs(int i, int j) {
+int dx[4] = { 0,0,1,-1 };
+int dy[4] = { 1,-1,0,0 };
+
+void print() {
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			cout << c_map[i][j] << ' ';
+		}
+		cout << '\n';
+	}
+}
+
+void copyMap(int height) {
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n; j++) {
+			c_map[i][j] = map[i][j] - height;
+			if (c_map[i][j] < 0) c_map[i][j] = 0;
+		}
+	}
+}
+
+void bfs(int i, int j, int labeling) {
 	queue<pair<int, int>> q;
 	q.push({ i,j });
 	check[i][j] = 1;
+	c_map[i][j] = labeling;
 	while (!q.empty()) {
 		int x = q.front().first;
 		int y = q.front().second;
 		q.pop();
+
 		for (int dir = 0; dir < 4; dir++) {
 			int nx = x + dx[dir];
 			int ny = y + dy[dir];
 			if (nx < 0 || ny < 0 || nx >= n || ny >= n) continue;
-			if (check[nx][ny] == 1 || safeArea[nx][ny] == 0) continue;
-			q.push({ nx,ny });
+			if (c_map[nx][ny] == 0) continue;
+			if (check[nx][ny] == 1) continue;
+			c_map[nx][ny] = labeling;
 			check[nx][ny] = 1;
+			q.push({ nx,ny });
 		}
 	}
 }
 
 int main() {
+	int high = 0;
 	cin >> n;
-	int max = -1;
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
-			cin >> safeArea[i][j];
-			if (safeArea[i][j] > max) {
-				max = safeArea[i][j];
-			}
+			cin >> map[i][j];
+			if (high < map[i][j]) high = map[i][j];
 		}
 	}
-	//cout <<"max: " << max<<'\n';
-	for (int k = 0; k <= max; k++) {
-		//cout << "시도 = " << k;
-		for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
-				if (safeArea[i][j] > 0) {
-					safeArea[i][j] = safeArea[i][j] - 1;
-				}
-				else continue;
-			}
-		}
-		//cout << '\n';
-		cnt = 0;
+
+	int answer = -1;
+	//cout <<"강우 최대: "<< high << '\n';
+	for (int i = 0; i < high; i++) {
+		copyMap(i);
 		memset(check, 0, sizeof(check));
-		for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
-				if (check[i][j] == 0 && safeArea[i][j] != 0) {
-					bfs(i, j);
-					cnt++;
+		int labeling = 0;
+		for (int a = 0; a < n; a++) {
+			for (int b = 0; b < n; b++) {
+				if (c_map[a][b] != 0 && check[a][b] == 0) {
+					bfs(a, b, ++labeling);
 				}
 			}
 		}
-		v.push_back(cnt);
-
-		/*for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
-				cout << safeArea[i][j] << ' ';
-			}
-			cout << '\n';
-		}
-		cout << "안전영역: " <<cnt << '\n';*/
-
+		//print();
+		if (answer < labeling) answer = labeling;
+		//cout << answer << '\n';
 	}
-	sort(v.begin(), v.end());
-	/*for (int i = 0; i < v.size(); i++) {
-		cout << v[i] << ' ';
-	}*/
-	cout << '\n' << v[v.size() - 1];
+	//cout << "최종 안전 영역: " << answer;
+	cout << answer << '\n';
 	return 0;
 }
