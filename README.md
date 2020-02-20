@@ -114,6 +114,8 @@
 ,[숨바꼭질 3 (BOJ 13549)](https://github.com/danielkang1003/Algorithm/blob/master/boj13549.cpp)
 ,[숨바꼭질 4 (BOJ 13913)](https://github.com/danielkang1003/Algorithm/blob/master/boj13913.cpp)
 ,[불 (BOJ 5427)](https://github.com/danielkang1003/Algorithm/blob/master/boj5427.cpp)
+,[불! (BOJ 4179)](https://github.com/danielkang1003/Algorithm/blob/master/boj4179.cpp)
+,[말이 되고픈 원숭이 (BOJ 1600)](https://github.com/danielkang1003/Algorithm/blob/master/boj1600.cpp)
 ----
 
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
