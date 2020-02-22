@@ -29,6 +29,9 @@
 ,[누울 자리를 찾아라 (BOJ 1652)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1652.cpp)
 ,[카드 게임 (BOJ 2621)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2621.cpp)
 ,[셀프 넘버 (BOJ 4673)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj4673.cpp)
+,[색종이 (BOJ 2563)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj2563.cpp)
+,[수들의 합 (BOJ 1789)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1789.cpp)
+,[수 이어쓰기 1(BOJ 1748)](https://github.com/danielkang1003/Algorithm/blob/master/백준/boj1748.cpp)
 ----
 
 + 재귀 |[피보나치5 (BOJ 10870)](https://github.com/danielkang1003/Algorithm/blob/master/백준/재귀/boj10870.cpp)
@@ -53,6 +56,7 @@
 ,[팰린드롬인지 확인하기 (BOJ 10988)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10988.cpp)
 ,[문자열 (BOJ 1120)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1120.cpp)
 ,[iSharp (BOJ 3568)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj3568.cpp)
+,[세로읽기 (BOJ 10798](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10798.cpp)
 ----
 
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
