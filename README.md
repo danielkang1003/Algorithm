@@ -57,6 +57,7 @@
 ,[문자열 (BOJ 1120)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1120.cpp)
 ,[iSharp (BOJ 3568)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj3568.cpp)
 ,[세로읽기 (BOJ 10798](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10798.cpp)
+,[문서 검색 (BOJ 1543)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1543.cpp)
 ----
 
 + DP |[2xn 타일링 (BOJ 11726)](https://github.com/danielkang1003/Algorithm/blob/master/백준/DP/boj11726.cpp)
