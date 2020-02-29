@@ -175,6 +175,7 @@
 ,[맥주 마시면서 걸어가기 (BOJ 9205)](https://github.com/danielkang1003/Algorithm/blob/master/boj9205.cpp)
 ,[경사로 (BOJ 14890)](https://github.com/danielkang1003/Algorithm/blob/master/boj14890.cpp)
 ,[감시 (BOJ 15683)](https://github.com/danielkang1003/Algorithm/blob/master/boj15683.cpp)
+,[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
 ----
 
 + 그래프|
@@ -282,7 +283,8 @@
 + ~~[배열 돌리기4 (BOJ 17406)](https://github.com/danielkang1003/Algorithm/blob/master/boj17406.cpp)~~
 
 + [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)
-+ [연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141_tryingToSolve.cpp)
++ ~~[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141_tryingToSolve.cpp)~~
++ [연구소 2 풀이완료](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
 *두문제 모두 시간 초과. 해결해야할 숙제*
 + [백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
 + [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
