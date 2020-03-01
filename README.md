@@ -123,6 +123,7 @@
 ,[불! (BOJ 4179)](https://github.com/danielkang1003/Algorithm/blob/master/boj4179.cpp)
 ,[말이 되고픈 원숭이 (BOJ 1600)](https://github.com/danielkang1003/Algorithm/blob/master/boj1600.cpp)
 ,[보물섬 (BOJ 2589)](https://github.com/danielkang1003/Algorithm/blob/master/boj2589.cpp)
+,[DOM (BOJ 10552)](https://github.com/danielkang1003/Algorithm/blob/master/boj10552.cpp)
 ----
 
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
@@ -176,6 +177,7 @@
 ,[경사로 (BOJ 14890)](https://github.com/danielkang1003/Algorithm/blob/master/boj14890.cpp)
 ,[감시 (BOJ 15683)](https://github.com/danielkang1003/Algorithm/blob/master/boj15683.cpp)
 ,[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
+,[탈출 (BOJ 3055)](https://github.com/danielkang1003/Algorithm/blob/master/boj3055.cpp)
 ----
 
 + 그래프|
@@ -212,6 +214,7 @@
 ,[숫자카드2 (BOJ 10816 stl 사용)](https://github.com/danielkang1003/Algorithm/blob/master/boj10816_bound.cpp)
 ,[차집합 (BOJ 1822) - 이분탐색, set 사용](https://github.com/danielkang1003/Algorithm/blob/master/boj1822.cpp)
 ,[수들의 합 (BOJ 2003)](https://github.com/danielkang1003/Algorithm/blob/master/boj2003.cpp)
+,[나무 자르기 (BOJ 2805)](https://github.com/danielkang1003/Algorithm/blob/master/boj2805.cpp)
 ----
 
 + 힙|[최소 힙 (BOJ 1927)](https://github.com/danielkang1003/Algorithm/blob/master/boj1927.cpp)
@@ -281,10 +284,13 @@
 + ~~[Puyo Puyo (BOJ 11559)](https://github.com/danielkang1003/Algorithm/blob/master/boj11559.cpp)~~
 + ~~[⚾ (BOJ 17281)](https://github.com/danielkang1003/Algorithm/blob/master/boj17281.cpp)~~
 + ~~[배열 돌리기4 (BOJ 17406)](https://github.com/danielkang1003/Algorithm/blob/master/boj17406.cpp)~~
++ ~~[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141_tryingToSolve.cpp)~~
+, [연구소 2 - 풀이완료](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
 
 + [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)
-+ ~~[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141_tryingToSolve.cpp)~~
-+ [연구소 2 풀이완료](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
+
++ ~~[탈출 (BOJ 3055)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)~~
+, [탈출 (BOJ 3055) -풀이 완료](https://github.com/danielkang1003/Algorithm/blob/master/boj3055.cpp)
 *두문제 모두 시간 초과. 해결해야할 숙제*
 + [백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
 + [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
