@@ -250,7 +250,6 @@
 , [8821. 적고 지우기](https://github.com/danielkang1003/Algorithm/blob/master/swea8821.cpp)
 , [8658. Summation](https://github.com/danielkang1003/Algorithm/blob/master/swea8685.cpp)
 , [2001. 파리퇴치](https://github.com/danielkang1003/Algorithm/blob/master/swea2001.cpp)
-, [1486. 장훈이의 높은 선반](https://github.com/danielkang1003/Algorithm/blob/master/swea1486.cpp)
 , [1989. 초심자의 회문 검사](https://github.com/danielkang1003/Algorithm/blob/master/swea1989.cpp)
 , [4193. 수영대회 결승전 (완전탐색 + 구현)](https://github.com/danielkang1003/Algorithm/blob/master/swea4193.cpp)
 ----
@@ -288,9 +287,10 @@
 + ~~[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141_tryingToSolve.cpp)~~
 , [연구소 2 - 풀이완료](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
 
++ [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)
+
 + ~~[탈출 (BOJ 3055)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)~~
 , [탈출 (BOJ 3055) -풀이 완료](https://github.com/danielkang1003/Algorithm/blob/master/boj3055.cpp)
 + *두문제 모두 시간 초과. 해결해야할 숙제*
 + [백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
-, [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
-, [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)
++ [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
