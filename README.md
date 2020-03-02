@@ -290,7 +290,9 @@
 
 + ~~[탈출 (BOJ 3055)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)~~
 , [탈출 (BOJ 3055) -풀이 완료](https://github.com/danielkang1003/Algorithm/blob/master/boj3055.cpp)
-+ *두문제 모두 시간 초과. 해결해야할 숙제*
+
++ *모두 시간 초과. 해결해야할 숙제*
 + [백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
 , [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
-, [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)
+, [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp),
+, [로봇 (BOJ 1726)](https://github.com/danielkang1003/Algorithm/blob/master/boj1726NoAC.cpp)
