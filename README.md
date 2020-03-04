@@ -237,6 +237,7 @@
 ,[스타트와 링크 (BOJ 14889)](https://github.com/danielkang1003/Algorithm/blob/master/boj14889.cpp)
 ,[나무 재테크 (BOJ 16235)](https://github.com/danielkang1003/Algorithm/blob/master/boj16235.cpp)
 ,[뱀 (BOJ 3190](https://github.com/danielkang1003/Algorithm/blob/master/boj3190.cpp)
+,[인구이동 (BOJ 16234)](https://github.com/danielkang1003/Algorithm/blob/master/boj16234.cpp)
 ----
 
 *2. 프로그래머스*
