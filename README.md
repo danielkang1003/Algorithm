@@ -125,6 +125,7 @@
 ,[보물섬 (BOJ 2589)](https://github.com/danielkang1003/Algorithm/blob/master/boj2589.cpp)
 ,[DOM (BOJ 10552)](https://github.com/danielkang1003/Algorithm/blob/master/boj10552.cpp)
 ,[로봇 (BOJ 1726)](https://github.com/danielkang1003/Algorithm/blob/master/boj1726.cpp)
+,[백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
 ----
 
 + 정렬 |[좌표 정렬하기 (BOJ 11650)](https://github.com/danielkang1003/Algorithm/blob/master/boj11650.cpp)
@@ -293,9 +294,10 @@
 ,[로봇 (BOJ 1726) - 해결완료](https://github.com/danielkang1003/Algorithm/blob/master/boj1726.cpp)
 + ~~[탈출 (BOJ 3055)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp)~~
 , [탈출 (BOJ 3055) -풀이 완료](https://github.com/danielkang1003/Algorithm/blob/master/boj3055.cpp)
++ ~~[백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197_TimeOut.cpp)~~
+,[백조의 호수 (BOJ 3197) - 풀이 완료](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
 
 + *모두 시간 초과. 해결해야할 숙제*
-+ [백조의 호수 (BOJ 3197)](https://github.com/danielkang1003/Algorithm/blob/master/boj3197.cpp)
-, [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
++ [불 켜기 (BOJ 11967)](https://github.com/danielkang1003/Algorithm/blob/master/boj11967.cpp)
 , [원판 돌리기 (BOJ 17822)](https://github.com/danielkang1003/Algorithm/blob/master/boj17822_noAC.cpp),
 
