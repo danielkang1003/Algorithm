@@ -58,6 +58,7 @@
 ,[iSharp (BOJ 3568)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj3568.cpp)
 ,[세로읽기 (BOJ 10798](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10798.cpp)
 ,[문서 검색 (BOJ 1543)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1543.cpp)
+,[농구 경기 (BOJ 1159)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1159.cpp)
 ,[나는야 포켓몬 마스터 이다솜 (BOJ 1620)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1620.cpp)
 ----
 
@@ -144,6 +145,7 @@
 ,[올림픽 (BOJ 8979)](https://github.com/danielkang1003/Algorithm/blob/master/boj8979.cpp)
 ,[등수 구하기 (BOJ 1205)](https://github.com/danielkang1003/Algorithm/blob/master/boj1205.cpp)
 ,[보물 (BOJ 1026)](https://github.com/danielkang1003/Algorithm/blob/master/boj1026.cpp)
+,[점수 계산 (BOJ 2822)](https://github.com/danielkang1003/Algorithm/blob/master/boj2822.cpp)
 ----
 
 + 그리디|[동전 0 (BOJ 11047)](https://github.com/danielkang1003/Algorithm/blob/master/boj11047.cpp)
@@ -182,6 +184,10 @@
 ,[연구소 2 (BOJ 17141)](https://github.com/danielkang1003/Algorithm/blob/master/boj17141.cpp)
 ,[탈출 (BOJ 3055)](https://github.com/danielkang1003/Algorithm/blob/master/boj3055.cpp)
 ----
+
++ 구현|
+,[베르트랑 공준 (BOJ 4948)](https://github.com/danielkang1003/Algorithm/blob/master/boj4948.cpp)
+,[에라토스테네스의 체 (BOJ 2960)](https://github.com/danielkang1003/Algorithm/blob/master/boj2960.cpp)
 
 + 그래프|
 [연결 요소의 개수 (BOJ 11724): BFS,DFS 풀이 모두 있음](https://github.com/danielkang1003/Algorithm/blob/master/boj11724.cpp)
