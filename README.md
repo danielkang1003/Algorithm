@@ -263,6 +263,7 @@
 , [1486. 장훈이의 높은 선반](https://github.com/danielkang1003/Algorithm/blob/master/swea1486.cpp)
 , [1989. 초심자의 회문 검사](https://github.com/danielkang1003/Algorithm/blob/master/swea1989.cpp)
 , [4193. 수영대회 결승전 (완전탐색 + 구현)](https://github.com/danielkang1003/Algorithm/blob/master/swea4193.cpp)
+, [1767. 프로세서 연결하기(완전탐색 + dfs)](https://github.com/danielkang1003/Algorithm/blob/master/swea1767.cpp)
 ----
 
 *4. 혼자 만들어보는 알고리즘 게임*
