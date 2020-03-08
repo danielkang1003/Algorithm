@@ -256,6 +256,7 @@
 
 *3. SWEA 문제*
 + D3 | [8931. 제로](https://github.com/danielkang1003/Algorithm/blob/master/zero.cpp)
+, [1204. 최빈수 구하기](https://github.com/danielkang1003/Algorithm/blob/master/swea1204.cpp)
 , [8741. 두문자어](https://github.com/danielkang1003/Algorithm/blob/master/swea8741.cpp)
 , [8821. 적고 지우기](https://github.com/danielkang1003/Algorithm/blob/master/swea8821.cpp)
 , [8658. Summation](https://github.com/danielkang1003/Algorithm/blob/master/swea8685.cpp)
@@ -264,6 +265,10 @@
 , [1989. 초심자의 회문 검사](https://github.com/danielkang1003/Algorithm/blob/master/swea1989.cpp)
 , [4193. 수영대회 결승전 (완전탐색 + 구현)](https://github.com/danielkang1003/Algorithm/blob/master/swea4193.cpp)
 , [1767. 프로세서 연결하기(완전탐색 + dfs)](https://github.com/danielkang1003/Algorithm/blob/master/swea1767.cpp)
+, [1206. view ](https://github.com/danielkang1003/Algorithm/blob/master/swea1206.cpp)
+,[1208. Flatten](https://github.com/danielkang1003/Algorithm/blob/master/swea1208.cpp)
+,[1209. Sum](https://github.com/danielkang1003/Algorithm/blob/master/swea1209.cpp)
+,[1210. Ladder1](https://github.com/danielkang1003/Algorithm/blob/master/swea1210.cpp)
 ----
 
 *4. 혼자 만들어보는 알고리즘 게임*
