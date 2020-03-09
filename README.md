@@ -269,6 +269,9 @@
 ,[1208. Flatten](https://github.com/danielkang1003/Algorithm/blob/master/swea1208.cpp)
 ,[1209. Sum](https://github.com/danielkang1003/Algorithm/blob/master/swea1209.cpp)
 ,[1210. Ladder1](https://github.com/danielkang1003/Algorithm/blob/master/swea1210.cpp)
+,[1211. Ladder2](https://github.com/danielkang1003/Algorithm/blob/master/swea1211.cpp)
+,[1213. String](https://github.com/danielkang1003/Algorithm/blob/master/swea1213.cpp)
+,[1215. 회문1](https://github.com/danielkang1003/Algorithm/blob/master/swea1215.cpp)
 ----
 
 *4. 혼자 만들어보는 알고리즘 게임*
