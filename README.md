@@ -246,6 +246,7 @@
 ,[나무 재테크 (BOJ 16235)](https://github.com/danielkang1003/Algorithm/blob/master/boj16235.cpp)
 ,[뱀 (BOJ 3190](https://github.com/danielkang1003/Algorithm/blob/master/boj3190.cpp)
 ,[인구이동 (BOJ 16234)](https://github.com/danielkang1003/Algorithm/blob/master/boj16234.cpp)
+,[구슬탈출 (BOJ 13460)](https://github.com/danielkang1003/Algorithm/blob/master/boj13460.cpp)
 ----
 
 *2. 프로그래머스*
