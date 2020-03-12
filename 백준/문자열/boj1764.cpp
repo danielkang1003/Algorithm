@@ -43,3 +43,40 @@ int main() {
 
 	return 0;
 }
+
+//맵 활용한 문제 풀이
+/*
+#include<iostream>
+#include<map>
+#include<vector>
+#include<algorithm>
+
+using namespace std;
+
+int n, m;
+string names;
+map<string, int> list;
+vector<string> v;
+int main() {
+	ios_base::sync_with_stdio(false), cin.tie(NULL);
+	cin >> n >> m;
+	for (int i = 0; i < n; i++) {
+		cin >> names;
+		list[names]++;
+	}
+	for (int i = 0; i < m; i++) {
+		cin >> names;
+		list[names]++;
+	}
+	map<string, int>::iterator it;
+	for (it = list.begin(); it != list.end(); it++) {
+		if ((*it).second == 2) v.push_back((*it).first);
+	}
+	sort(v.begin(), v.end());
+	cout << v.size() <<'\n';
+	for (int i = 0; i < v.size(); i++) {
+		cout << v[i] << '\n';
+	}
+	return 0;
+}
+*/

@@ -50,7 +50,7 @@
 ,[방번호 (BOJ 1475)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1475.cpp)
 ,[쇠막대기 (BOJ 10799)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10799.cpp)
 ,[에너그램 만들기 (BOJ 1919)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1919.cpp)
-,[듣보잡 (BOJ 1764)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1764.cpp)
+,[듣보잡 (BOJ 1764) - map 활용 문제 풀이 추가](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj1764.cpp)
 ,[회사에 있는 사람 (BOJ 7785)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj7785.cpp)
 ,[유학 금지(BOJ 2789)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj2789.cpp)
 ,[팰린드롬인지 확인하기 (BOJ 10988)](https://github.com/danielkang1003/Algorithm/blob/master/백준/문자열/boj10988.cpp)
@@ -276,6 +276,7 @@
 ,[1217. 거듭제곱](https://github.com/danielkang1003/Algorithm/blob/master/swea1217.cpp)
 ,[1218. 괄호 짝짓기](https://github.com/danielkang1003/Algorithm/blob/master/swea1218.cpp)
 ,[1219. 길찾기](https://github.com/danielkang1003/Algorithm/blob/master/swea1219.cpp)
+,[1221. GNS](https://github.com/danielkang1003/Algorithm/blob/master/swea1221.cpp)
 ----
 
 *4. 혼자 만들어보는 알고리즘 게임*
