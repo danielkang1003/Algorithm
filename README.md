@@ -85,7 +85,7 @@
 ,[후위 표기식 (BOJ 1918)](https://github.com/danielkang1003/Algorithm/blob/master/boj1918.cpp)
 ,[후위 표기식 (BOJ 1935)](https://github.com/danielkang1003/Algorithm/blob/master/boj1935.cpp)
 ,[외계인의 기타연주 (BOJ 2841)](https://github.com/danielkang1003/Algorithm/blob/master/boj2841.cpp)
-
+,[스택 수열 (BOJ 1874)](https://github.com/danielkang1003/Algorithm/blob/master/boj1874.cpp)
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 ,[프린터 큐 (BOJ 1966)](https://github.com/danielkang1003/Algorithm/blob/master/boj1966.cpp)
