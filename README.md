@@ -86,12 +86,15 @@
 ,[후위 표기식 (BOJ 1935)](https://github.com/danielkang1003/Algorithm/blob/master/boj1935.cpp)
 ,[외계인의 기타연주 (BOJ 2841)](https://github.com/danielkang1003/Algorithm/blob/master/boj2841.cpp)
 ,[스택 수열 (BOJ 1874)](https://github.com/danielkang1003/Algorithm/blob/master/boj1874.cpp)
+,[옥상 정원 꾸미기 (BOJ 6198)](https://github.com/danielkang1003/Algorithm/blob/master/boj1874.cpp)
+
 
 + Queue |[큐 (BOJ 10845)](https://github.com/danielkang1003/Algorithm/blob/master/boj10845.cpp)
 ,[프린터 큐 (BOJ 1966)](https://github.com/danielkang1003/Algorithm/blob/master/boj1966.cpp)
 ,[조세퍼스 문제 (BOJ 1158)](https://github.com/danielkang1003/Algorithm/blob/master/boj1158.cpp)
 ,[트럭 (BOJ 13335)](https://github.com/danielkang1003/Algorithm/blob/master/boj13335.cpp)
 ,[카드 2(BOJ 2164)](https://github.com/danielkang1003/Algorithm/blob/master/boj2164.cpp)
+
 
 + Deque |[덱 (BOJ 10866)](https://github.com/danielkang1003/Algorithm/blob/master/boj10866.cpp)
 ,[회전하는 큐 (BOJ 1021)](https://github.com/danielkang1003/Algorithm/blob/master/boj1021.cpp)
